@@ -1,0 +1,200 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4EFF7016-3727-420D-A7C0-356DB7DEF23A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      2041
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "41E5AFE2-5980-4A42-B9F5-6774578D2A23"
+    },
+    {
+      "class": "artboard",
+      "id": "CC8B7FBF-3595-4463-A0C2-9FCD0A6F0977"
+    },
+    {
+      "class": "artboard",
+      "id": "EC273A2C-ED07-493D-B57D-F4D918F88885"
+    },
+    {
+      "class": "artboard",
+      "id": "4A584FA5-4674-444B-9016-F15C4AC0140C"
+    },
+    {
+      "class": "artboard",
+      "id": "2BC9610E-1329-45E9-B961-9E21CBAA21FE"
+    },
+    {
+      "class": "artboard",
+      "id": "3B95092A-C8DA-4DCE-8CCE-571C30584723"
+    },
+    {
+      "class": "text",
+      "id": "7E39D532-75CD-4275-A5F1-C45131BEAF8C"
+    },
+    {
+      "class": "bitmap",
+      "id": "43AB2DEF-CDEE-4409-8462-E5BEFC78283F"
+    },
+    {
+      "class": "bitmap",
+      "id": "0E4FF5B7-C94E-4E07-BB61-D47A144C3FB7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4404125A-9072-45D3-8648-DBFFD1403B33"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B6BE11E7-CC45-42E7-8A3D-1976DA30CDBF"
+    },
+    {
+      "class": "text",
+      "id": "4E6AD6F8-5C68-4D11-9EF4-6F6962917B8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "945E3C74-08CA-4EA8-823F-67DD42F82F3B"
+    },
+    {
+      "class": "artboard",
+      "id": "B4516299-076B-409C-958E-0CB92BC99C1A"
+    },
+    {
+      "class": "artboard",
+      "id": "F05A7432-B809-467B-9A52-88EF6A16F424"
+    },
+    {
+      "class": "artboard",
+      "id": "111A276D-6B49-4BF2-9ABF-E0F7DC3AA581"
+    },
+    {
+      "class": "artboard",
+      "id": "C09893E9-84B4-430E-8177-579D37A7E86C"
+    },
+    {
+      "class": "artboard",
+      "id": "35777676-F5B9-4B86-A4AF-F272254F33ED"
+    },
+    {
+      "class": "artboard",
+      "id": "BFA3181A-4164-4392-8DE6-B28341855FED"
+    },
+    {
+      "class": "artboard",
+      "id": "50D8B2E8-DE74-4663-AADD-21192660AB23"
+    },
+    {
+      "class": "artboard",
+      "id": "CF762270-F481-4E64-92F1-E2CF522E97C6"
+    },
+    {
+      "class": "artboard",
+      "id": "796EED1A-1793-4989-9240-7F702ACD9F85"
+    },
+    {
+      "class": "group",
+      "id": "1A83D9EB-ACEA-49D1-A708-BE548ECE4B36"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B620C766-E9B4-45B1-BF58-B5ECD5E9BBF1",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.data": {
+      "json-files": "[{\"path\":\"2ADF067B-F264-4951-B076-E4554874778A.json\",\"name\":\"data.json\",\"hash\":\"6e1bb24825eb3d0550d01a11974453729bb2879c\"}]"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
