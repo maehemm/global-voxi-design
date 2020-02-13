@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 604,
+  "changeIdentifier": 702,
   "clippingMaskMode": 0,
   "do_objectID": "80BDFA93-9A3D-48D1-BCA5-83D2CC57B931",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 48,
     "width": 264,
     "x": 1378,
     "y": -724
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,10 +75,6 @@
     {
       "class": "rectangle",
       "id": "BB9DCF10-A0F6-44FE-9790-6C83891853D8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2FC2851C-C19C-4D72-9557-7EBF9930170C"
     }
   ],
   "maintainScrollPosition": false,

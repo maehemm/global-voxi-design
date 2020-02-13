@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RegularVOXI-Bold",
-              "size": 18
+              "size": 16
             }
           },
           "kerning": 0,
@@ -56,9 +56,9 @@
     "height": 24,
     "width": 152,
     "x": 56,
-    "y": 16
+    "y": 14
   },
-  "glyphBounds": "{{55, 4}, {43, 14}}",
+  "glyphBounds": "{{57, 4}, {39, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A45894C1-5443-476D-89FD-DF5BB80BCB65",
+  "sharedStyleID": "AB8542DB-DB3A-4E6B-8AED-ACF46AFCB493",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -133,7 +133,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RegularVOXI-Bold",
-            "size": 18
+            "size": 16
           }
         },
         "kerning": 0,

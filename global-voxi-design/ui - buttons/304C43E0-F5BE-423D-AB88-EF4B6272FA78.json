@@ -53,7 +53,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 62,
     "width": 608,
     "x": 2,
     "y": -844
@@ -150,5 +150,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
