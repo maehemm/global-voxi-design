@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 325,
+  "changeIdentifier": 365,
   "clippingMaskMode": 0,
   "do_objectID": "2EA41FE1-B720-42F4-A0CE-F26CF20DD608",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 56,
     "width": 264,
-    "x": -2213,
+    "x": -2511,
     "y": -724
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -74,7 +74,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "uiButtons/primary/on black/active",
+  "name": "uiButtons/desktop/primary/on black/active",
   "nameIsFixed": true,
   "overrideProperties": [
     {

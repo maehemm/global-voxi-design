@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 48,
     "width": 264,
     "x": 312,
     "y": 312
@@ -84,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "82DB75AF-18A4-4B91-BD4B-BADF624E17A1",
+  "symbolID": "05CEC016-B673-4889-BADE-87C6ABF2D295",
   "verticalSpacing": 0
 }

@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1665,
     "width": 1500,
-    "x": -6257,
-    "y": -6118
+    "x": 1305,
+    "y": -10161
   },
   "grid": {
     "_class": "simpleGrid",
@@ -62,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -71,10 +71,6 @@
     {
       "class": "bitmap",
       "id": "A1F8475E-867B-4ECE-8E25-6BAFBE278F2F"
-    },
-    {
-      "class": "text",
-      "id": "352CA385-AAFD-488A-BE56-6F1A68D07038"
     },
     {
       "class": "text",
@@ -87,10 +83,6 @@
     {
       "class": "group",
       "id": "2AECAD2F-5B73-49B1-BDCF-D93DF98FDEE2"
-    },
-    {
-      "class": "text",
-      "id": "FF0BC70C-356D-4650-A530-8E42885CEB67"
     },
     {
       "class": "text",

@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -227,7 +227,7 @@
     "totalWidth": 1232
   },
   "maintainScrollPosition": false,
-  "name": "V2-color-palette-WS10 Copy 3",
+  "name": "voxi-webcore2-buttons",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

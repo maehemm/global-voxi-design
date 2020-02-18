@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 703,
+  "changeIdentifier": 750,
   "clippingMaskMode": 0,
   "do_objectID": "CDF2CE44-001F-40FC-A64E-AAE94BDFE1B4",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 264,
-    "x": -2213,
+    "x": -2511,
     "y": -356
   },
   "groupLayout": {
@@ -74,7 +74,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "uiButtons/alt 1/on black/active",
+  "name": "uiButtons/desktop/alt 1/on black/active",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 169,
-    "width": 560,
+    "width": 360,
     "x": 312,
     "y": 240
   },
@@ -39,10 +39,6 @@
     {
       "class": "symbolInstance",
       "id": "2BE1B65F-EF6E-426E-8758-F64536424268"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D248E7E2-042E-4AF4-B284-2F77BEEFF091"
     }
   ],
   "maintainScrollPosition": false,

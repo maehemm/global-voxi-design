@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 470,
+  "changeIdentifier": 560,
   "clippingMaskMode": 0,
   "do_objectID": "58060716-0E7C-4497-AC71-A4B877E69125",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 264,
-    "x": -1181,
+    "x": -1479,
     "y": -724
   },
   "groupLayout": {
@@ -53,32 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "0E6D9CF0-5C6A-4772-973B-858111F45031"
-    },
-    {
-      "class": "rectangle",
-      "id": "FD26D57D-7555-417D-8EB7-2085A9DE1802"
-    },
-    {
-      "class": "text",
-      "id": "3D333ED7-E860-431F-93C0-FDF28D5C861D"
-    },
-    {
       "class": "group",
-      "id": "93A2B817-5169-4A51-A823-8EC61DE930B1"
-    },
-    {
-      "class": "group",
-      "id": "D618DC47-09D4-423D-B209-B0C4AD2D5277"
-    },
-    {
-      "class": "rectangle",
-      "id": "B2F37FF3-E612-40AA-AF72-EB4E419D69EC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C9591F45-7156-4636-9BA8-C8332350E72D"
+      "id": "20DEE49B-5AD1-4650-9A76-F316312FAEE8"
     }
   ],
   "maintainScrollPosition": false,

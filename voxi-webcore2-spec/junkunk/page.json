@@ -70,6 +70,10 @@
     {
       "class": "artboard",
       "id": "EAEE9929-B903-4C21-89A1-CE1CEE2A0209"
+    },
+    {
+      "class": "bitmap",
+      "id": "44658DC9-2327-42AC-ACB1-31CAF5EB9B11"
     }
   ],
   "maintainScrollPosition": false,

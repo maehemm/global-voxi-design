@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 675,
+  "changeIdentifier": 768,
   "clippingMaskMode": 0,
   "do_objectID": "064BD740-BABC-4BBB-9C21-DB820732743C",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 264,
-    "x": -1181,
+    "x": -1479,
     "y": -1332
   },
   "groupLayout": {
@@ -53,24 +53,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9AE1D317-0172-4D4C-8903-71B353CA9AA5"
-    },
-    {
-      "class": "rectangle",
-      "id": "C90DF992-51F2-416E-B0C9-1C26CDD8F8F8"
-    },
-    {
-      "class": "text",
-      "id": "A8C5DC3D-77DE-4703-B623-B695935537F7"
-    },
-    {
       "class": "group",
-      "id": "54DB6148-752D-485C-AA16-576B7ECB2767"
-    },
-    {
-      "class": "group",
-      "id": "0980C403-27ED-48FD-A51A-753F1BACA640"
+      "id": "D0251714-D7BF-4BAE-B86F-9A996C18D199"
     }
   ],
   "maintainScrollPosition": false,
