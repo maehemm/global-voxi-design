@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 7287,
     "width": 1500,
-    "x": 8677,
-    "y": -12990
+    "x": 12250,
+    "y": -13049
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -753,7 +753,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "maintainScrollPosition": false,
   "name": "V2-button-spec-WS10 Copy",
   "nameIsFixed": true,
   "presetDictionary": {

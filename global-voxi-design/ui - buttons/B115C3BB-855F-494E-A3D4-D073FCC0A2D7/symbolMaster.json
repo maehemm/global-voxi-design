@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 576,
+  "changeIdentifier": 578,
   "clippingMaskMode": 0,
   "do_objectID": "B115C3BB-855F-494E-A3D4-D073FCC0A2D7",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,7 +73,6 @@
       "id": "B08F259C-1E42-4C89-87A5-1099806103C6"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "uiButtons/desktop/alt 2/on white/focus",
   "nameIsFixed": true,
   "overrideProperties": [

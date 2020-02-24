@@ -150,7 +150,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "maintainScrollPosition": false,
   "name": "voxi-webcore2-cards",
   "nameIsFixed": true,
   "presetDictionary": {

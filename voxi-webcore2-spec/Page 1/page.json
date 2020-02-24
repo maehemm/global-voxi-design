@@ -42,10 +42,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "CC8B7FBF-3595-4463-A0C2-9FCD0A6F0977"
-    },
-    {
-      "class": "artboard",
       "id": "EC273A2C-ED07-493D-B57D-F4D918F88885"
     },
     {
@@ -81,10 +77,6 @@
       "id": "30F5BCCA-7FB7-40A1-841A-1E92D28239A9"
     },
     {
-      "class": "bitmap",
-      "id": "43AB2DEF-CDEE-4409-8462-E5BEFC78283F"
-    },
-    {
       "class": "symbolMaster",
       "id": "4404125A-9072-45D3-8648-DBFFD1403B33"
     },
@@ -102,42 +94,13 @@
     },
     {
       "class": "artboard",
-      "id": "B4516299-076B-409C-958E-0CB92BC99C1A"
-    },
-    {
-      "class": "artboard",
-      "id": "F05A7432-B809-467B-9A52-88EF6A16F424"
-    },
-    {
-      "class": "artboard",
-      "id": "111A276D-6B49-4BF2-9ABF-E0F7DC3AA581"
-    },
-    {
-      "class": "artboard",
-      "id": "C09893E9-84B4-430E-8177-579D37A7E86C"
-    },
-    {
-      "class": "artboard",
       "id": "BFA3181A-4164-4392-8DE6-B28341855FED"
-    },
-    {
-      "class": "artboard",
-      "id": "50D8B2E8-DE74-4663-AADD-21192660AB23"
-    },
-    {
-      "class": "artboard",
-      "id": "CF762270-F481-4E64-92F1-E2CF522E97C6"
-    },
-    {
-      "class": "artboard",
-      "id": "796EED1A-1793-4989-9240-7F702ACD9F85"
     },
     {
       "class": "group",
       "id": "1A83D9EB-ACEA-49D1-A708-BE548ECE4B36"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Page 1",
   "nameIsFixed": false,
   "resizingConstraint": 63,

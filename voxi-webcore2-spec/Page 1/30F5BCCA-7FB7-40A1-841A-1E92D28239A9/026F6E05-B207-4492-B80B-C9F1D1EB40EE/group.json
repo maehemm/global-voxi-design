@@ -18,7 +18,7 @@
     "height": 1200,
     "width": 1920,
     "x": 0,
-    "y": 10
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -61,7 +61,6 @@
       "id": "8EAA5E5D-F7D5-4B07-8CBA-D96794D7FE31"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "page furniture",
   "nameIsFixed": true,
   "resizingConstraint": 63,

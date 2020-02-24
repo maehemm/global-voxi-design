@@ -18,7 +18,7 @@
     "height": 128,
     "width": 264,
     "x": 632,
-    "y": 578
+    "y": 560
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "uiElements/panel/black/mid grey outer Copy 2",
   "nameIsFixed": false,
   "overrideValues": [

@@ -5,11 +5,11 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "green": 1,
-    "red": 1
+    "green": 0.764705882352941,
+    "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 140,
   "clippingMaskMode": 0,
   "do_objectID": "8591EFAC-FC86-4E8D-ABD4-373F7A88D1B3",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 12,
     "width": 7,
-    "x": 288,
-    "y": 201
+    "x": 330,
+    "y": 170
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,8 +41,8 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,9 +61,8 @@
       "id": "F2A147CD-3B49-415D-AE32-0599D97DC066"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "uiIcons/MiniChevron",
-  "nameIsFixed": false,
+  "name": "uiIcons/miniicons/MiniChevron",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

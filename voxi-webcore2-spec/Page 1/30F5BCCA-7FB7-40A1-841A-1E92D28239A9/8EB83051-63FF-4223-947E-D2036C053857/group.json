@@ -18,7 +18,7 @@
     "height": 48,
     "width": 248,
     "x": 312,
-    "y": 514
+    "y": 496
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,7 +41,6 @@
       "id": "5AF76EDB-7AD3-4223-8B7F-C3D1B49C366D"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Primary-1 Copy 6",
   "nameIsFixed": true,
   "resizingConstraint": 63,

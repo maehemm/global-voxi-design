@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "Cards"
+    "string": "Icons"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 32,
     "y": 142
   },
-  "glyphBounds": "{{64, 5}, {72, 21}}",
+  "glyphBounds": "{{69, 5}, {63, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
   "name": "Page title",
   "nameIsFixed": true,
   "resizingConstraint": 47,

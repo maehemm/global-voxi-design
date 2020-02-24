@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -69,7 +69,6 @@
       "id": "32CCEF8A-925F-4E4F-8827-962C09E6FF94"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "page furniture",
   "nameIsFixed": true,
   "resizingConstraint": 63,

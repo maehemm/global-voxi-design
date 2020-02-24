@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -77,7 +77,6 @@
       "id": "C6CE3009-AE13-429B-8B6E-F4FA1E6CC4A2"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "uiButtons/mobile/primary/on black/focus",
   "nameIsFixed": true,
   "overrideProperties": [

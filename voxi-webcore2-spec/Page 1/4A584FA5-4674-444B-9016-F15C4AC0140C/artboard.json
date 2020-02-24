@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -348,7 +348,6 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "maintainScrollPosition": false,
   "name": "voxi-webcore2-typography",
   "nameIsFixed": true,
   "presetDictionary": {

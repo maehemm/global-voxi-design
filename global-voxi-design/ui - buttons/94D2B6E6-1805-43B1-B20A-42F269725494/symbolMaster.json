@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,7 +73,6 @@
       "id": "6EFDEBA3-D58C-4F42-A009-B5131C2BDF3B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "uiButtons/desktop/primary/on white/hover",
   "nameIsFixed": true,
   "overrideProperties": [
