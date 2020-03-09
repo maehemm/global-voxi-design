@@ -41,6 +41,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "2181C130-0B14-4E2F-8CFE-06FE39A73834"
+    },
+    {
       "class": "artboard",
       "id": "EC273A2C-ED07-493D-B57D-F4D918F88885"
     },
@@ -62,6 +66,14 @@
     },
     {
       "class": "artboard",
+      "id": "CC77E289-58DA-4E32-959E-4F258D998AD4"
+    },
+    {
+      "class": "artboard",
+      "id": "8094FEB4-26F6-468D-87E0-0000D53710E0"
+    },
+    {
+      "class": "artboard",
       "id": "48F65016-34D2-4709-8F94-E122618F62CF"
     },
     {
@@ -71,6 +83,10 @@
     {
       "class": "artboard",
       "id": "4E6C80AE-CA8C-457B-B20E-950DB6B69729"
+    },
+    {
+      "class": "artboard",
+      "id": "72C4EBD2-722C-44B2-8A87-407FC72438C9"
     },
     {
       "class": "artboard",
@@ -87,6 +103,10 @@
     {
       "class": "text",
       "id": "4E6AD6F8-5C68-4D11-9EF4-6F6962917B8D"
+    },
+    {
+      "class": "text",
+      "id": "A97DE57E-0594-4CA6-ABE8-EEFA7C89A0F4"
     },
     {
       "class": "shapeGroup",

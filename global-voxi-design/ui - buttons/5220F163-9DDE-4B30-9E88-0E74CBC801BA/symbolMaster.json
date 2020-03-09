@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 638,
+  "changeIdentifier": 715,
   "clippingMaskMode": 0,
   "do_objectID": "5220F163-9DDE-4B30-9E88-0E74CBC801BA",
   "exportOptions": {
@@ -55,10 +55,6 @@
     {
       "class": "group",
       "id": "295153B3-2C75-4DD3-A15D-DDAAFAC2D17E"
-    },
-    {
-      "class": "rectangle",
-      "id": "6AC4E3FE-E8CA-40C5-A888-9C7939D0F366"
     }
   ],
   "name": "uiButtons/mobile/primary/on black/disabled",

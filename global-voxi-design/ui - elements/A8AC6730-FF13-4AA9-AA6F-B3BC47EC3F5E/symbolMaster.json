@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "A8AC6730-FF13-4AA9-AA6F-B3BC47EC3F5E",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 56,
+    "height": 64,
+    "width": 64,
     "x": -446,
     "y": 790
   },
@@ -64,10 +64,15 @@
   "name": "uiElements/spacers/tablet/level 8",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69933BAE-9DC6-4C9A-B627-7F24F1F31C2E_stringValue"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

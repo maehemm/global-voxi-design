@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -46,14 +46,6 @@
     },
     {
       "class": "group",
-      "id": "602059F3-6F1F-4836-86C1-EC044DB3A665"
-    },
-    {
-      "class": "group",
-      "id": "D92CA182-BEF0-47BE-8C49-E2C7D7630989"
-    },
-    {
-      "class": "group",
       "id": "A75D1535-C451-44B7-ADD5-3784C2C498C7"
     },
     {
@@ -63,10 +55,6 @@
     {
       "class": "group",
       "id": "7DAF36C9-E46F-41D9-9D98-F481F171602B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "32CCEF8A-925F-4E4F-8827-962C09E6FF94"
     }
   ],
   "name": "page furniture",

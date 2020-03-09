@@ -19,7 +19,7 @@
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -106,6 +106,10 @@
     {
       "class": "group",
       "id": "3D4C2BC3-3EDC-47C7-BAC7-3294FEEF3D8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0B678CF-A93B-4CB7-ABAD-CBABE8268CBB"
     }
   ],
   "layout": {

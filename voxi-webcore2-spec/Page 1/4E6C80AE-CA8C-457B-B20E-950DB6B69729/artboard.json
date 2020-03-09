@@ -34,7 +34,7 @@
     "height": 1200,
     "width": 1920,
     "x": 3325,
-    "y": -9739
+    "y": -9967
   },
   "grid": {
     "_class": "simpleGrid",
@@ -72,7 +72,11 @@
     },
     {
       "class": "group",
-      "id": "081B0E36-48F4-411C-8704-39B01791A58B"
+      "id": "AB263219-1843-4F1E-B618-9F985E616B60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52DCCDD5-9DFC-4F47-9B07-57AB467C90DE"
     }
   ],
   "layout": {
@@ -90,7 +94,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "name": "voxi-webcore2-icons",
+  "name": "voxi-webcore2-icon construction",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -160,7 +164,7 @@
       1485,
       440,
       640,
-      840
+      888
     ]
   }
 }

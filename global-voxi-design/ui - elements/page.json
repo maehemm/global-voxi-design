@@ -45,6 +45,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "D3E7468A-0635-4D6B-AB68-7D446AFDCAA7"
+    },
+    {
+      "class": "symbolMaster",
       "id": "4F4D9DF1-9F01-43B7-8790-95111A3A7296"
     },
     {
@@ -70,6 +74,10 @@
     {
       "class": "symbolMaster",
       "id": "54F88110-4029-4406-9911-A7F4A835A7D3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "86ACD88F-2036-453F-8AC3-90A819738B30"
     },
     {
       "class": "symbolMaster",
@@ -210,6 +218,10 @@
     {
       "class": "text",
       "id": "D859E17C-DD35-47BC-915F-51778DA625AB"
+    },
+    {
+      "class": "text",
+      "id": "CE5BBF69-0294-45F3-8D16-EE1A3CC17006"
     }
   ],
   "name": "ui - elements",

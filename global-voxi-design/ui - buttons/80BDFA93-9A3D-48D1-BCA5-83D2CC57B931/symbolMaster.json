@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 702,
+  "changeIdentifier": 774,
   "clippingMaskMode": 0,
   "do_objectID": "80BDFA93-9A3D-48D1-BCA5-83D2CC57B931",
   "exportOptions": {
@@ -61,30 +61,25 @@
       "id": "CB2FB82A-CCE8-421E-B6D1-264EEA792F03"
     },
     {
+      "class": "symbolInstance",
+      "id": "BD369A33-64E4-49FD-8464-C287524D277A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC2BE06A-1F59-4BFE-8FDC-8B2CCE26138D"
+    },
+    {
       "class": "text",
       "id": "CC3C9A93-E429-432F-ACAE-3B2C0E05D3F2"
     },
     {
       "class": "group",
-      "id": "CA51B167-55DF-4880-B347-7AF6E2FF42E6"
-    },
-    {
-      "class": "group",
       "id": "7990AE31-8A4D-4AE8-A78A-D6DD70AEE94D"
-    },
-    {
-      "class": "rectangle",
-      "id": "BB9DCF10-A0F6-44FE-9790-6C83891853D8"
     }
   ],
   "name": "uiButtons/mobile/primary/on black/loading",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2FC2851C-C19C-4D72-9557-7EBF9930170C_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

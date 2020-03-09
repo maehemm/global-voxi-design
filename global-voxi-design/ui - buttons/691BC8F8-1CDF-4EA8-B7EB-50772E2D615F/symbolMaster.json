@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 688,
+  "changeIdentifier": 745,
   "clippingMaskMode": 0,
   "do_objectID": "691BC8F8-1CDF-4EA8-B7EB-50772E2D615F",
   "exportOptions": {
@@ -66,11 +66,15 @@
     },
     {
       "class": "group",
-      "id": "E01F0D87-A474-43F3-B7A1-0F40A8DADBEF"
+      "id": "450CCFD9-A9B5-4F43-899B-497F2435FCD2"
     },
     {
-      "class": "group",
-      "id": "450CCFD9-A9B5-4F43-899B-497F2435FCD2"
+      "class": "symbolInstance",
+      "id": "95471388-608E-4C59-8E44-130D51BBFB69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B58352B5-E63F-4B6D-98D0-704F9041B682"
     }
   ],
   "name": "uiButtons/mobile/alt 2/on white/hover",

@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 8,
-    "width": 8,
+    "width": 9.361702127659575,
     "x": 1,
     "y": 0
   },
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "m8",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -144,5 +144,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

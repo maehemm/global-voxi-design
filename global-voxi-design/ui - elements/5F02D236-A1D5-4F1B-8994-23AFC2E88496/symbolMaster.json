@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 30,
   "clippingMaskMode": 0,
   "do_objectID": "5F02D236-A1D5-4F1B-8994-23AFC2E88496",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 48,
+    "height": 56,
+    "width": 56,
     "x": -366,
     "y": 790
   },
@@ -64,10 +64,15 @@
   "name": "uiElements/spacers/mobile/level 8",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2C82B6F3-66A9-4A97-A457-979E5E0EF098_stringValue"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

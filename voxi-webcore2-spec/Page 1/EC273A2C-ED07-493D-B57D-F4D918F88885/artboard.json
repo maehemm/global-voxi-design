@@ -19,7 +19,7 @@
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1870,
+    "height": 1201,
     "width": 1920,
     "x": -2735,
     "y": -12990
@@ -209,7 +209,9 @@
       987,
       738,
       489,
-      1485
+      1485,
+      1124,
+      589
     ]
   }
 }

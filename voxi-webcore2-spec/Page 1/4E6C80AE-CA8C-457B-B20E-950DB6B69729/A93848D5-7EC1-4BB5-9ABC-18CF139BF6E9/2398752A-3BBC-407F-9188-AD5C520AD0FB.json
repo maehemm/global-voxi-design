@@ -30,11 +30,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 5,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Icons"
+    "string": "Icon construction"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 72,
     "width": 200,
     "x": 32,
     "y": 142
   },
-  "glyphBounds": "{{69, 5}, {63, 21}}",
+  "glyphBounds": "{{23, 5}, {153, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

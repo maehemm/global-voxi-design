@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
@@ -43,14 +43,6 @@
     {
       "class": "group",
       "id": "261EE4A4-5D64-4959-960A-EE62BDDCE14A"
-    },
-    {
-      "class": "group",
-      "id": "89C04202-99E2-488F-966A-BFAD6CD0819A"
-    },
-    {
-      "class": "group",
-      "id": "980E669B-BA3B-4837-8F54-E502E514494F"
     },
     {
       "class": "text",

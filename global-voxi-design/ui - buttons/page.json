@@ -85,6 +85,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "AE3B51FB-4F85-40AC-BEDB-6B14CBE3172E"
+    },
+    {
+      "class": "symbolMaster",
       "id": "F43E5DE4-BF59-4B0C-8D8B-564FC0697F28"
     },
     {
@@ -358,6 +362,10 @@
     {
       "class": "text",
       "id": "7A4AB8E8-EE89-4456-9745-4F3A8B05AF73"
+    },
+    {
+      "class": "text",
+      "id": "CDFB3ADC-7504-434A-84ED-74E7E144571D"
     }
   ],
   "name": "ui - buttons",

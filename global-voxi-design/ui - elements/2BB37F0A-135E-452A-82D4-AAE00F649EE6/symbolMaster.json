@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 59,
   "clippingMaskMode": 0,
   "do_objectID": "2BB37F0A-135E-452A-82D4-AAE00F649EE6",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 64,
+    "height": 56,
+    "width": 56,
     "x": -542,
     "y": 694
   },
@@ -64,10 +64,15 @@
   "name": "uiElements/spacers/desktop/level 7",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E2A2B0D5-04B2-47BB-9104-3F943BA45C69_stringValue"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

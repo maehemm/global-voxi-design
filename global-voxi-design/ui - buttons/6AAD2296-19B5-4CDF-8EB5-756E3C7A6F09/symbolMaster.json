@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 671,
+  "changeIdentifier": 742,
   "clippingMaskMode": 0,
   "do_objectID": "6AAD2296-19B5-4CDF-8EB5-756E3C7A6F09",
   "exportOptions": {
@@ -66,11 +66,15 @@
     },
     {
       "class": "group",
-      "id": "E5E9047A-344D-47BE-B318-AE994300899C"
+      "id": "E9313698-714A-49C8-987F-3347179C7EAF"
     },
     {
-      "class": "group",
-      "id": "E9313698-714A-49C8-987F-3347179C7EAF"
+      "class": "symbolInstance",
+      "id": "E20CAD79-5D6E-4ED4-810F-622E4063D56D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E1E36D2-9281-4B86-BE72-92DD0062EDA1"
     }
   ],
   "name": "uiButtons/mobile/alt 2/on white/focus",

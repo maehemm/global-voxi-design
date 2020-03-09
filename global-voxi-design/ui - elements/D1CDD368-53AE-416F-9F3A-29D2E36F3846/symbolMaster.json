@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 63,
   "clippingMaskMode": 0,
   "do_objectID": "D1CDD368-53AE-416F-9F3A-29D2E36F3846",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
+    "height": 48,
+    "width": 48,
     "x": -366,
     "y": 694
   },
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +64,11 @@
   "name": "uiElements/spacers/mobile/level 7",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "16909C4D-8926-4D16-8746-510CE0628A49_stringValue"
+    }
   ],
   "presetDictionary": {
   },

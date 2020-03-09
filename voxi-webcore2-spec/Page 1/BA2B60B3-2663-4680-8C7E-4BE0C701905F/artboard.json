@@ -19,7 +19,7 @@
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -108,6 +108,10 @@
     {
       "class": "group",
       "id": "9526A512-4EAB-4E7D-BE71-B49755AEEBC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DEFDA2B-4C02-46CD-86EE-72240DB99CDD"
     }
   ],
   "layout": {
@@ -125,7 +129,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "name": "voxi-webcore2-x",
+  "name": "voxi-webcore2-icons",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

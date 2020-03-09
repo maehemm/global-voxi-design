@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 10,
   "clippingMaskMode": 0,
   "do_objectID": "35C979CD-8161-430E-A3BA-3247FEDED331",
   "exportOptions": {
@@ -64,10 +64,15 @@
   "name": "uiElements/spacers/desktop/level 1",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9740938D-8AED-4F1F-A785-1F7A9017A536_stringValue"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

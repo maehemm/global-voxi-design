@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.0784313725490196,
-            "green": 0.09019607843137253,
-            "red": 0.09803921568627451
+            "blue": 0.3529411764705883,
+            "green": 0.3607843137254902,
+            "red": 0.3686274509803922
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,18 +23,17 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
             "maximumLineHeight": 24,
             "minimumLineHeight": 24
           }
         },
-        "length": 91,
+        "length": 92,
         "location": 0
       }
     ],
-    "string": "There is no secondary colour palette for VOXI; all colour should come from the YGC content "
+    "string": "There is no secondary colour palette for VOXI; all colour should come from the YGC content. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 96,
-    "width": 200,
-    "x": 0,
-    "y": 36
+    "height": 24,
+    "width": 675,
+    "x": 280,
+    "y": 0
   },
-  "glyphBounds": "{{12, 4}, {188, 85}}",
+  "glyphBounds": "{{0, 4}, {603, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +71,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "37764105-EB42-4C4A-9AEF-FA4FB8CB1EBF",
+  "sharedStyleID": "E98DA3B0-1C6E-4D4B-BB2B-1E5713434849",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.0784313725490196,
-          "green": 0.09019607843137253,
-          "red": 0.09803921568627451
+          "blue": 0.3529411764705883,
+          "green": 0.3607843137254902,
+          "red": 0.3686274509803922
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -138,7 +137,6 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
           "maximumLineHeight": 24,

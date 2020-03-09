@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 260,
+  "changeIdentifier": 275,
   "clippingMaskMode": 0,
   "do_objectID": "89F22C44-CABF-4F99-AE80-F538530B7C03",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "48225216-1D8D-4A8E-AC0C-6B31E420AB7B"
     }
   ],
-  "name": "ui icon/misc/table plus",
+  "name": "uiIcons/misc/table plus",
   "nameIsFixed": true,
   "overrideProperties": [
     {

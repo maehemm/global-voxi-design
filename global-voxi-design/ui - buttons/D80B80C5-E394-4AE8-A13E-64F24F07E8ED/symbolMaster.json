@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 803,
+  "changeIdentifier": 861,
   "clippingMaskMode": 0,
   "do_objectID": "D80B80C5-E394-4AE8-A13E-64F24F07E8ED",
   "exportOptions": {
@@ -66,11 +66,15 @@
     },
     {
       "class": "group",
-      "id": "7F1A4C4E-1511-4C02-8271-08215CB732C2"
+      "id": "3ED25752-CA50-4D5E-AFC9-152B55C684AC"
     },
     {
-      "class": "group",
-      "id": "3ED25752-CA50-4D5E-AFC9-152B55C684AC"
+      "class": "symbolInstance",
+      "id": "FA36FADB-F47F-46D3-917C-64BFA21C73FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27DEE217-F100-4996-90EF-243BE987F408"
     }
   ],
   "name": "uiButtons/mobile/alt 2/on white/loading",

@@ -19,7 +19,7 @@
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -133,6 +133,10 @@
     {
       "class": "symbolInstance",
       "id": "8F2E1356-9C71-4188-8883-ABE5D2E7CA1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B28DF588-2200-4300-A745-EC4EA685C003"
     }
   ],
   "layout": {

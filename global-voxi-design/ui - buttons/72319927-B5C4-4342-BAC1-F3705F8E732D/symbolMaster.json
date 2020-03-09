@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 614,
+  "changeIdentifier": 676,
   "clippingMaskMode": 0,
   "do_objectID": "72319927-B5C4-4342-BAC1-F3705F8E732D",
   "exportOptions": {
@@ -60,6 +60,16 @@
   "name": "uiButtons/mobile/primary/on white/disabled",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "93A9F8DD-C35B-4480-A2D5-B7728B03AB50_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BBD044B8-68B5-47E1-9C67-E407A100E2CD_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

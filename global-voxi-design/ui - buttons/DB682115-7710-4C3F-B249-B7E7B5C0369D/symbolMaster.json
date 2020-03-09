@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 533,
+  "changeIdentifier": 1209,
   "clippingMaskMode": 0,
   "do_objectID": "DB682115-7710-4C3F-B249-B7E7B5C0369D",
   "exportOptions": {
@@ -39,6 +39,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      216
     ]
   },
   "includeBackgroundColorInExport": false,
@@ -61,16 +62,20 @@
       "id": "20498159-875A-4AE5-ABC6-436174E9B333"
     },
     {
+      "class": "symbolInstance",
+      "id": "9F062013-EEF7-42DF-96C1-3CE3A4BECEDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39C52916-13D6-4C67-B9CD-460CAA569564"
+    },
+    {
       "class": "text",
       "id": "E7FE65C1-6C0D-4D27-A601-A65C73DA7C5E"
     },
     {
       "class": "group",
-      "id": "F8BC58BA-C7D1-4A6F-937A-D22DF565AD2D"
-    },
-    {
-      "class": "group",
-      "id": "9B6A3CDE-9602-4284-B132-6557DEA7807C"
+      "id": "005B31BC-4FB0-4542-9832-DC8C91BF726A"
     }
   ],
   "name": "uiButtons/mobile/primary/on white/active",
@@ -84,7 +89,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3267D03B-B347-492E-B0E3-FC7E654DA0BF_symbolID"
+      "overrideName": "39C52916-13D6-4C67-B9CD-460CAA569564_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F062013-EEF7-42DF-96C1-3CE3A4BECEDB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B0578F68-AD91-4AF1-B98C-CCFCF341C9BC_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

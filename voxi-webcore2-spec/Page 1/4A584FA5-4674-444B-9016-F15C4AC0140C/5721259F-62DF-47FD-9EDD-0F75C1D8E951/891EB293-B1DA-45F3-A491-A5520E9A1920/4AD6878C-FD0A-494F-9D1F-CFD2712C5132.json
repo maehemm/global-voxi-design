@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 91,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "There is no secondary colour palette for VOXI; all colour should come from the YGC content "
+    "string": "Vestibulum id ligula porta felis euismod semper."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 96,
+    "height": 48,
     "width": 200,
     "x": 0,
     "y": 36
   },
-  "glyphBounds": "{{12, 4}, {188, 85}}",
+  "glyphBounds": "{{6, 4}, {194, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "There is no secondar",
+  "name": "Vestibulum id ligula",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

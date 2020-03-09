@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
+  "changeIdentifier": 12,
   "clippingMaskMode": 0,
   "do_objectID": "4F4D9DF1-9F01-43B7-8790-95111A3A7296",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "633E2E92-BC01-4237-81FE-9C200ED3B793"
     }
   ],
-  "name": "uiElements/panel/white/dark grey outer",
-  "nameIsFixed": false,
+  "name": "uiElements/cardContainer/white/dark grey outer",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "presetDictionary": {
