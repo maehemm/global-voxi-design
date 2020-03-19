@@ -49,6 +49,26 @@
     },
     {
       "class": "symbolMaster",
+      "id": "A14AF41E-7A91-4C58-AEA7-06ABAC43B383"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "095F8B7B-C57A-47E6-BAAF-53B7730EA2FE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7B8CF53A-F903-4375-B492-98CBA8C1F8F8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "87CCC2E4-BBC5-4243-90FC-EF5A2538487A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "96F996EB-9A6E-4420-BD1B-734AFE6E6DC3"
+    },
+    {
+      "class": "symbolMaster",
       "id": "4F4D9DF1-9F01-43B7-8790-95111A3A7296"
     },
     {
@@ -222,6 +242,10 @@
     {
       "class": "text",
       "id": "CE5BBF69-0294-45F3-8D16-EE1A3CC17006"
+    },
+    {
+      "class": "bitmap",
+      "id": "A9D0DB4E-6489-406F-9501-274B39118EFE"
     }
   ],
   "name": "ui - elements",

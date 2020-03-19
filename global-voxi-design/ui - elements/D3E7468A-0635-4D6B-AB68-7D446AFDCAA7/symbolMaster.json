@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1069,
+  "changeIdentifier": 1346,
   "clippingMaskMode": 0,
   "do_objectID": "D3E7468A-0635-4D6B-AB68-7D446AFDCAA7",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 150,
     "width": 343,
     "x": -542,
-    "y": -617
+    "y": 1541
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
       "id": "CC2EE739-13E6-4576-9B85-E7C543C49D8E"
     }
   ],
-  "name": "uiElements/cards/signpostcomponent",
+  "name": "uiElements/mobile/cards/signpostComponent",
   "nameIsFixed": true,
   "overrideProperties": [
     {

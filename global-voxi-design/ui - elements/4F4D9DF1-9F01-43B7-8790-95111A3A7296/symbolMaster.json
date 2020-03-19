@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 17,
   "clippingMaskMode": 0,
   "do_objectID": "4F4D9DF1-9F01-43B7-8790-95111A3A7296",
   "exportOptions": {
@@ -39,6 +39,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      0
     ]
   },
   "includeBackgroundColorInExport": false,

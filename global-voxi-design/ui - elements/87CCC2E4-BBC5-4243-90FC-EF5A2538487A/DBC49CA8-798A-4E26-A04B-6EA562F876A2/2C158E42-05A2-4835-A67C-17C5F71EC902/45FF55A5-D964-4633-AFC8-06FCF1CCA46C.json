@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C5D92BED-D90E-4BCC-BC07-488BD1E71CD6",
+  "do_objectID": "45FF55A5-D964-4633-AFC8-06FCF1CCA46C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 0,
-    "y": 0
+    "height": 48,
+    "width": 164,
+    "x": 16,
+    "y": 232
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,11 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "colours/VOXI White",
-  "nameIsFixed": false,
+  "name": "button",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3C2ACEC8-C2E5-447C-9C22-A41DEEE9BEBC/F2A147CD-3B49-415D-AE32-0599D97DC066_symbolID",
+      "value": "CACE2EE9-3348-4760-A057-83A408C8F7D0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "03BCDAAB-C24A-4033-A8AD-3820BE038757_stringValue",
+      "value": "Status"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 36,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B623A8EF-80F1-47D9-836E-2B75A345B57F",
+    "do_objectID": "253166D4-C8A9-4744-9B46-9932525687CC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D03ACFC9-86C5-4250-9A30-BC9B6301F5A3",
+  "symbolID": "4DD4F177-0F11-42BB-BA6F-0CBBAC34BA48",
   "verticalSpacing": 0
 }
