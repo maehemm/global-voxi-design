@@ -9,7 +9,7 @@
     "red": 0.4862745098039217
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3965,
+  "changeIdentifier": 4147,
   "clippingMaskMode": 0,
   "do_objectID": "87CCC2E4-BBC5-4243-90FC-EF5A2538487A",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 313,
     "width": 375,
     "x": -542,
-    "y": 2753
+    "y": 4063
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,9 +59,14 @@
       "id": "DBC49CA8-798A-4E26-A04B-6EA562F876A2"
     }
   ],
-  "name": "uiElements/mobile/notifications/sitestatus Notification",
+  "name": "uiElements/notifications/sitestatus Notification/mobile",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE1C5A6E-AC2C-44BB-9A56-A886EB506A48_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

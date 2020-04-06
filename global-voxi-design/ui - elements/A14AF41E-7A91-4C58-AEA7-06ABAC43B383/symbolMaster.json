@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1659,
+  "changeIdentifier": 1737,
   "clippingMaskMode": 0,
   "do_objectID": "A14AF41E-7A91-4C58-AEA7-06ABAC43B383",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 97,
     "width": 1440,
     "x": -542,
-    "y": 1891
+    "y": 1774
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -61,7 +61,7 @@
       "id": "B6375EC0-7EF3-4430-9D6B-D2D208589C7C"
     }
   ],
-  "name": "uiElements/desktop/notifications/cookie Notification",
+  "name": "uiElements/notifications/old cookie Notification/mobile",
   "nameIsFixed": true,
   "overrideProperties": [
     {

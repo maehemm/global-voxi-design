@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3085,
+  "changeIdentifier": 3108,
   "clippingMaskMode": 0,
   "do_objectID": "F721D3E1-B2B7-4349-A047-6015B651BCC5",
   "exportOptions": {
@@ -73,10 +73,15 @@
       "id": "9F4C4FFD-6BCC-4473-BDCF-7BAE4C5E766F"
     }
   ],
-  "name": "uiIcons/brand icons/voxi logo with clearspace Copy",
+  "name": "uiIcons/voxi logo/with clearspace",
   "nameIsFixed": true,
   "originalObjectID": "DEBD00AB-6243-4C80-BA1F-8DE28C245F43",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F4C4FFD-6BCC-4473-BDCF-7BAE4C5E766F_symbolID"
+    }
   ],
   "presetDictionary": {
   },

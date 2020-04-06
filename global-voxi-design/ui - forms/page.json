@@ -39,6 +39,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "E14D9A0E-4DCF-4F82-8666-8DE19C1417EF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F0A53C55-E860-4DC3-9ABD-891C7EFAD171"
+    }
   ],
   "name": "ui - forms",
   "nameIsFixed": true,

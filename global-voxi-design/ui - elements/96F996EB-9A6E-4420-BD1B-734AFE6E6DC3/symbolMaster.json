@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3084,
+  "changeIdentifier": 3089,
   "clippingMaskMode": 0,
   "do_objectID": "96F996EB-9A6E-4420-BD1B-734AFE6E6DC3",
   "exportOptions": {
@@ -69,7 +69,7 @@
       "id": "DE20C6A9-6A3D-4ADF-BE1D-AF945A409FA8"
     }
   ],
-  "name": "uiElements/desktop/cards/signpostComponent",
+  "name": "uiElements/cards/signpostComponent/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -9,7 +9,7 @@
     "red": 0.4862745098039217
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3167,
+  "changeIdentifier": 3250,
   "clippingMaskMode": 0,
   "do_objectID": "7B8CF53A-F903-4375-B492-98CBA8C1F8F8",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 241,
     "width": 375,
     "x": -542,
-    "y": 2085
+    "y": 1968
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
       "id": "5D72344C-005A-425A-BCA6-B4AABD2CF497"
     }
   ],
-  "name": "uiElements/mobile/notifications/cookie Notification",
+  "name": "uiElements/notifications/old cookie Notification/mobile",
   "nameIsFixed": true,
   "overrideProperties": [
     {
