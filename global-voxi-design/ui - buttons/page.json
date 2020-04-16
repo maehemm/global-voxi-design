@@ -97,6 +97,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "7C376ED8-D8CA-4E86-9D3D-D4A6EB6EAC67"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FA704CBB-5C05-42F7-9DF1-E46217906CFB"
+    },
+    {
+      "class": "symbolMaster",
       "id": "F43E5DE4-BF59-4B0C-8D8B-564FC0697F28"
     },
     {
@@ -370,10 +378,6 @@
     {
       "class": "text",
       "id": "7A4AB8E8-EE89-4456-9745-4F3A8B05AF73"
-    },
-    {
-      "class": "text",
-      "id": "CDFB3ADC-7504-434A-84ED-74E7E144571D"
     },
     {
       "class": "text",

@@ -254,6 +254,62 @@
     {
       "class": "bitmap",
       "id": "A9D0DB4E-6489-406F-9501-274B39118EFE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0E00AD22-9D3A-4BD8-B201-F1DC4B81E74E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5D28FDE0-35F8-492E-81F3-05983A6232B5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D310FD2D-9A6B-44D2-9A50-7DB16C8409A3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3E9E15EA-57A5-4389-A752-A7FA73561F38"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8AA3A9FC-E248-4AAA-8065-2DDC4DC6BF9C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "72C32F77-14D3-4144-A32F-836D2CB76B21"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "30717893-F27A-4B04-927A-868613A60E9C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3F43156A-40E5-4BBB-8966-4B29CA8C7C66"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B6537C76-4966-43CE-BB8A-7DC8C5124CE7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "346536FD-4519-42D9-A136-0409EC90F943"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9B76E70B-1FB3-4525-9F94-18F7E81BA30C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CB7749CE-0572-493E-8AC8-D795FACC1238"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0F5096E7-373E-4571-97C7-71EE7762C82F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B55EF986-717A-4927-8C77-B5331CA3AAF3"
     }
   ],
   "name": "ui - elements",

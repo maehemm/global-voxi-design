@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "F0A53C55-E860-4DC3-9ABD-891C7EFAD171",
   "exportOptions": {
@@ -64,6 +64,16 @@
   "name": "uiForms/switches/toggle off/desktop",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8590EB7-04A1-41A6-8F10-C80EB3FFE35B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BCE3F62F-7260-4FB6-AFD7-53408FDE3677_symbolID"
+    }
   ],
   "presetDictionary": {
   },

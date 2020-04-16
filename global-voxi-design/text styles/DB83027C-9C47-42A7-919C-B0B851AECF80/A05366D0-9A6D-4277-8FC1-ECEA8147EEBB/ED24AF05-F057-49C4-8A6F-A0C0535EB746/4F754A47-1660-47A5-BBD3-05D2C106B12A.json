@@ -32,11 +32,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 662,
+        "length": 221,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mollis erat. Sed sed vestibulum erat. In in iaculis arcu. Donec diam eros, lobortis vitae purus ut, dignissim faucibus nunc. Pellentesque sed dui turpis. Phasellus tempor, arcu eu tincidunt placerat, nunc lectus pellentesque purus, et rhoncus tortor turpis quis magna. Mauris fringilla, elit non congue pulvinar, enim nunc faucibus leo, nec viverra justo augue et velit. Donec nec metus ante. Morbi aliquam quam quis massa pharetra, eu dignissim risus convallis. Pellentesque ut tempus nisl. Etiam pulvinar mi mi, sit amet porttitor lacus blandit vitae. Donec convallis porttitor nisl eu luctus."
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mollis erat. Sed sed vestibulum erat. In in iaculis arcu. Donec diam eros, lobortis vitae purus ut, dignissim faucibus nunc. Pellentesque sed dui turpis. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,12 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
+    "height": 48,
     "width": 820,
     "x": 288,
     "y": 12
   },
-  "glyphBounds": "{{1, 6}, {819, 109}}",
+  "glyphBounds": "{{1, 6}, {819, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 184,
+    "height": 294,
     "width": 730,
     "x": 16,
     "y": 454
@@ -39,6 +39,18 @@
     {
       "class": "text",
       "id": "0559842D-D380-4680-80A7-C83D4CBD417D"
+    },
+    {
+      "class": "text",
+      "id": "EA7B821E-E321-46D6-A356-15CD58029380"
+    },
+    {
+      "class": "text",
+      "id": "BE7FD2BD-F14D-417F-95C4-25936CD3D152"
+    },
+    {
+      "class": "text",
+      "id": "59F5EF18-AE94-41DF-84F6-CB23826518A1"
     },
     {
       "class": "group",

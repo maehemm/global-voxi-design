@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.0784313725490196,
-            "green": 0.09019607843137253,
-            "red": 0.09803921568627451
+            "blue": 0.5372549019607843,
+            "green": 0.5450980392156862,
+            "red": 0.5490196078431373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "RegularVOXI-Bold",
-              "size": 56
+              "name": "RegularVOXI",
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 12,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "icon buttons"
+    "string": "First name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "CDFB3ADC-7504-434A-84ED-74E7E144571D",
+  "do_objectID": "3C1F6B26-AFE0-4B49-9577-367517AB30FF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 608,
-    "x": -2643,
-    "y": 640
+    "height": 28,
+    "width": 60,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 6}, {301, 41}}",
+  "glyphBounds": "{{1, 8}, {59, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,12 +66,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "icon buttons",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "label",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "83A5F724-B477-4C2C-9F1D-0D437CC03AB0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +98,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -108,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "47CE2D1C-A69E-4613-8AFE-8DF86F2515E4",
+    "do_objectID": "B28438CD-C18D-4561-9111-0CA6DB1C8B57",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,30 +122,36 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.0784313725490196,
-          "green": 0.09019607843137253,
-          "red": 0.09803921568627451
+          "blue": 0.5372549019607843,
+          "green": 0.5450980392156862,
+          "red": 0.5490196078431373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "RegularVOXI-Bold",
-            "size": 56
+            "name": "RegularVOXI",
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

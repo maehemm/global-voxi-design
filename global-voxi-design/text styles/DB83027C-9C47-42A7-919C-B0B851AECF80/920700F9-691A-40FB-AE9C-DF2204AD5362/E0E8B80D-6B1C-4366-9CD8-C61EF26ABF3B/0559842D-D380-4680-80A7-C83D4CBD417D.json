@@ -10,8 +10,8 @@
             "_class": "color",
             "alpha": 1,
             "blue": 0.0784313725490196,
-            "green": 0.09019607843137253,
-            "red": 0.09803921568627451
+            "green": 0.0901960784313725,
+            "red": 0.0980392156862745
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -31,11 +31,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 662,
+        "length": 220,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mollis erat. Sed sed vestibulum erat. In in iaculis arcu. Donec diam eros, lobortis vitae purus ut, dignissim faucibus nunc. Pellentesque sed dui turpis. Phasellus tempor, arcu eu tincidunt placerat, nunc lectus pellentesque purus, et rhoncus tortor turpis quis magna. Mauris fringilla, elit non congue pulvinar, enim nunc faucibus leo, nec viverra justo augue et velit. Donec nec metus ante. Morbi aliquam quam quis massa pharetra, eu dignissim risus convallis. Pellentesque ut tempus nisl. Etiam pulvinar mi mi, sit amet porttitor lacus blandit vitae. Donec convallis porttitor nisl eu luctus."
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mollis erat. Sed sed vestibulum erat. In in iaculis arcu. Donec diam eros, lobortis vitae purus ut, dignissim faucibus nunc. Pellentesque sed dui turpis."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
+    "height": 48,
     "width": 652,
     "x": 78,
     "y": 12
   },
-  "glyphBounds": "{{0, 6}, {640, 133}}",
+  "glyphBounds": "{{0, 6}, {639, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,6 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "95EA26A4-D06B-4E26-ACD4-71C2416D3D79",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,8 +126,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0.0784313725490196,
-          "green": 0.09019607843137253,
-          "red": 0.09803921568627451
+          "green": 0.0901960784313725,
+          "red": 0.0980392156862745
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
