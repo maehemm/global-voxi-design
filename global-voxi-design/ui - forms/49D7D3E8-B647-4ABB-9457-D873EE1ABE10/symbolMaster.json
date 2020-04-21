@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 386,
+  "changeIdentifier": 402,
   "clippingMaskMode": 0,
   "do_objectID": "49D7D3E8-B647-4ABB-9457-D873EE1ABE10",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "4D378DA1-084D-40A8-BAD1-65CA9BF47F95"
     }
   ],
-  "name": "forms/input/filled and invalid/dark/desktop",
+  "name": "uiForms/input/filled and invalid/black bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -76,7 +76,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B2BE27F6-C30D-4F54-A6E9-E06301548860_symbolID"
+      "overrideName": "DBA8CC82-120A-4B85-9FCA-65CC9877DD06_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

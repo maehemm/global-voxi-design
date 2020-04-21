@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 815,
+  "changeIdentifier": 836,
   "clippingMaskMode": 0,
   "do_objectID": "483A608F-3D89-446F-BA19-55DC1677B26A",
   "exportOptions": {
@@ -73,7 +73,7 @@
       "id": "25EB39A8-6C13-46E6-BCE0-61695CB565CB"
     }
   ],
-  "name": "forms/input/filled and error'd/light/desktop",
+  "name": "uiForms/input/filled and error'd/white bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -84,12 +84,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E121815A-1969-4743-919D-D972333EEE19_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7892B0A-7737-4A33-9A53-2B59D7D29044_symbolID"
+      "overrideName": "89446410-D9C8-4D33-A8F5-84F032CE5365_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -99,7 +94,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "89446410-D9C8-4D33-A8F5-84F032CE5365_stringValue"
+      "overrideName": "2FBA44BB-E52E-4A79-B9E5-E4ED4EFD1A56_textStyle"
     }
   ],
   "presetDictionary": {

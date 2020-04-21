@@ -102,6 +102,14 @@
     {
       "class": "symbolMaster",
       "id": "8F7F00BA-894D-448B-9B9B-ED58864B5FAB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4CAE533E-CD51-4DC9-BCD5-021B4DFA4736"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "63DE4B59-CEAD-4D06-9811-1A8163DE27C7"
     }
   ],
   "name": "ui - forms",

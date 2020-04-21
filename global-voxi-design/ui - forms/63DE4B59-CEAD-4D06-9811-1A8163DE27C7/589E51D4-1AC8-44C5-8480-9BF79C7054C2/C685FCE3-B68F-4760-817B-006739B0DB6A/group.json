@@ -1,8 +1,8 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C17FC6C8-F458-4E44-871C-CAA3767DAFAB",
+  "do_objectID": "C685FCE3-B68F-4760-817B-006739B0DB6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 0,
-    "y": 0
+    "height": 9,
+    "width": 9,
+    "x": 6,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "631EB651-02C5-41D4-8F13-07B384496B09"
+      "class": "oval",
+      "id": "B0853AC2-4CA7-4F8F-A1F0-0516AF04B60D"
     },
     {
-      "class": "group",
-      "id": "7C584525-F91C-4C39-9B86-84C49881872A"
+      "class": "symbolInstance",
+      "id": "5A8E80F1-C6F1-44C0-A335-3B0C35B3ECEB"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "active",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -73,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B0A30768-0909-4CC7-983B-2A96B2B8A1B5",
+    "do_objectID": "8D1315FD-C4CC-4163-A590-16B37D8EFDCC",
     "endMarkerType": 0,
     "fills": [
     ],

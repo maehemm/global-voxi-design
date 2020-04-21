@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C4329A15-B313-4ACA-BF79-0DD1B35A8982",
+  "do_objectID": "E8F8F480-EEFE-4423-B9DA-9A153F2016C8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,28 +20,27 @@
     "x": 260,
     "y": 6
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "uiIcons/miniicons/info",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "C17FC6C8-F458-4E44-871C-CAA3767DAFAB"
+      "_class": "overrideValue",
+      "overrideName": "2E2E2794-5160-42BB-98BD-551839D66D7E_symbolID",
+      "value": "68574E3C-B8B0-46E3-A330-7711876C1629"
     }
   ],
-  "name": "ui icon/info",
-  "nameIsFixed": false,
-  "resizingConstraint": 44,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +68,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4EC79AED-282E-42DF-9908-11AB0F0C49D2",
+    "do_objectID": "7D62B498-D632-436B-8533-9706F0151551",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "FE57DE00-AFE7-40F8-83E9-07D91A3642F7",
+  "verticalSpacing": 0
 }

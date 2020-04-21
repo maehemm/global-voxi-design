@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A076C69D-C7B1-464C-BED6-107845F88CDF",
+  "do_objectID": "5A8E80F1-C6F1-44C0-A335-3B0C35B3ECEB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 260,
-    "y": 4
+    "height": 9,
+    "width": 10,
+    "x": -0.5,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "uiIcons/miniicons/info",
+  "name": "colours/solids/voxi black",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "2E2E2794-5160-42BB-98BD-551839D66D7E_symbolID",
-      "value": "68574E3C-B8B0-46E3-A330-7711876C1629"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "886779EA-EF9C-45B3-8D34-307F5D3B47AE",
+    "do_objectID": "CB506F19-A1C9-480A-A54D-AF020AF4663A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FE57DE00-AFE7-40F8-83E9-07D91A3642F7",
+  "symbolID": "4C7427AD-C6E8-47F2-A1BE-ED5CCC19F30D",
   "verticalSpacing": 0
 }

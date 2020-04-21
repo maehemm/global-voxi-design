@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 971,
+  "changeIdentifier": 1005,
   "clippingMaskMode": 0,
   "do_objectID": "3C908157-F5CD-4E55-B9EE-8D25271AF836",
   "exportOptions": {
@@ -69,7 +69,7 @@
       "id": "3846BDDB-856A-4545-96E5-8F58D01037B9"
     }
   ],
-  "name": "forms/input/filled with hint/dark/desktop",
+  "name": "uiForms/input/filled with hint/black bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -80,7 +80,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0D2DBAF2-62BE-4D0F-B149-087BA12E6A18_symbolID"
+      "overrideName": "17D62015-AEE8-4898-951D-EAA61CF8F0BD_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

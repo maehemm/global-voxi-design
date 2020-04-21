@@ -8,10 +8,10 @@
     "green": 0.09019607843137253,
     "red": 0.09803921568627451
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 253,
+  "booleanOperation": -1,
+  "changeIdentifier": 740,
   "clippingMaskMode": 0,
-  "do_objectID": "720B5959-ADB4-4CB6-963A-28D2206911D3",
+  "do_objectID": "63DE4B59-CEAD-4D06-9811-1A8163DE27C7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 544,
-    "x": 718,
-    "y": -91
+    "height": 40,
+    "width": 179,
+    "x": 1310,
+    "y": 388
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -53,40 +53,36 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "603D512D-D396-4A5A-9A57-BD1CDF0EB8FF"
+    },
+    {
       "class": "group",
-      "id": "40FDBDE4-8FCF-468A-818E-F515D339DA08"
-    },
-    {
-      "class": "text",
-      "id": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2"
-    },
-    {
-      "class": "text",
-      "id": "3C1F6B26-AFE0-4B49-9577-367517AB30FF"
+      "id": "589E51D4-1AC8-44C5-8480-9BF79C7054C2"
     }
   ],
-  "name": "uiForms/input/filled/black bg/desktop",
+  "name": "uiForms/radio button/white bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3C1F6B26-AFE0-4B49-9577-367517AB30FF_stringValue"
+      "overrideName": "603D512D-D396-4A5A-9A57-BD1CDF0EB8FF_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2_textStyle"
+      "overrideName": "603D512D-D396-4A5A-9A57-BD1CDF0EB8FF_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2_stringValue"
+      "overrideName": "5A8E80F1-C6F1-44C0-A335-3B0C35B3ECEB_symbolID"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -125,7 +121,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5DF52BF5-16BF-4E92-A6AD-C381446224B9",
+    "do_objectID": "6984E92F-01F6-424C-A6D1-9867F9778C00",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -137,11 +133,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CAD705-F613-4E48-863C-07B600D05872",
+  "symbolID": "8B5981E3-E9EC-445B-A6A1-85404FA8A6AE",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      90
     ]
   }
 }

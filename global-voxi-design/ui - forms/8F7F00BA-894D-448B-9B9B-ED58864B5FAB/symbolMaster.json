@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 301,
+  "changeIdentifier": 532,
   "clippingMaskMode": 0,
   "do_objectID": "8F7F00BA-894D-448B-9B9B-ED58864B5FAB",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,14 +50,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "5DB3EF0D-3F99-4D54-8B70-B83444822009"
     }
   ],
-  "name": "forms/checkbox/light/desktop",
+  "name": "uiForms/checkbox/white bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -68,12 +68,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6F9C8CFC-A518-44C7-AE09-5E8954434A69_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1DF7B231-808E-4FCC-B581-5BF1A90BEEFD_symbolID"
+      "overrideName": "E8F8F480-EEFE-4423-B9DA-9A153F2016C8_symbolID"
     }
   ],
   "presetDictionary": {

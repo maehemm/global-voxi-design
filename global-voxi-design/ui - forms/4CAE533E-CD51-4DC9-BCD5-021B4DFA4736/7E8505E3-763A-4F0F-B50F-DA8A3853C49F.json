@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.0784313725490196,
+            "green": 0.09019607843137253,
+            "red": 0.09803921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -30,16 +30,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 4,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "John"
+    "string": "Checkbox group label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FA82F081-ECE8-4A8D-868D-1C4DE2A0D5CD",
+  "do_objectID": "7E8505E3-763A-4F0F-B50F-DA8A3853C49F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 36,
+    "width": 153,
     "x": 0,
-    "y": 26
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {36, 13}}",
+  "glyphBounds": "{{0, 4}, {152, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,12 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "input",
-  "nameIsFixed": true,
+  "name": "Checkbox group label",
+  "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "AB965F0B-9DD8-4AB6-89D8-B0D0860098E9",
+  "sharedStyleID": "A4F570DD-9F6B-46DC-A4AB-2A7AB56B9EDC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1588EE82-1D8A-4A5B-AF00-59CC23F3DACF",
+    "do_objectID": "3826A792-C420-4DEE-AA7E-95B11F045FE3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,9 +124,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.0784313725490196,
+          "green": 0.09019607843137253,
+          "red": 0.09803921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

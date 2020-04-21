@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A076C69D-C7B1-464C-BED6-107845F88CDF",
+  "do_objectID": "589E51D4-1AC8-44C5-8480-9BF79C7054C2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,33 +14,38 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 260,
-    "y": 4
+    "constrainProportions": true,
+    "height": 21,
+    "width": 21,
+    "x": 1,
+    "y": 8
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "uiIcons/miniicons/info",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "2E2E2794-5160-42BB-98BD-551839D66D7E_symbolID",
-      "value": "68574E3C-B8B0-46E3-A330-7711876C1629"
+      "class": "oval",
+      "id": "E7678365-95FF-46E8-90D6-8B82BF8D1BAE"
+    },
+    {
+      "class": "group",
+      "id": "C685FCE3-B68F-4760-817B-006739B0DB6A"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "radio",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "886779EA-EF9C-45B3-8D34-307F5D3B47AE",
+    "do_objectID": "23E19E42-7221-4F2B-B85B-038B30C7F768",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "FE57DE00-AFE7-40F8-83E9-07D91A3642F7",
-  "verticalSpacing": 0
+  }
 }

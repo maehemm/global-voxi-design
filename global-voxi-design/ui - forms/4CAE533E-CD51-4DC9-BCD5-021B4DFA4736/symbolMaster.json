@@ -8,10 +8,10 @@
     "green": 0.09019607843137253,
     "red": 0.09803921568627451
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 253,
+  "booleanOperation": -1,
+  "changeIdentifier": 678,
   "clippingMaskMode": 0,
-  "do_objectID": "720B5959-ADB4-4CB6-963A-28D2206911D3",
+  "do_objectID": "4CAE533E-CD51-4DC9-BCD5-021B4DFA4736",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 544,
+    "height": 72,
+    "width": 340,
     "x": 718,
-    "y": -91
+    "y": 198
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -53,35 +53,31 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "40FDBDE4-8FCF-468A-818E-F515D339DA08"
+      "class": "text",
+      "id": "7E8505E3-763A-4F0F-B50F-DA8A3853C49F"
     },
     {
-      "class": "text",
-      "id": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2"
-    },
-    {
-      "class": "text",
-      "id": "3C1F6B26-AFE0-4B49-9577-367517AB30FF"
+      "class": "symbolInstance",
+      "id": "262F4160-EEEA-4B66-8431-0E65E971E3AF"
     }
   ],
-  "name": "uiForms/input/filled/black bg/desktop",
+  "name": "uiForms/checkbox group/white bg/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3C1F6B26-AFE0-4B49-9577-367517AB30FF_stringValue"
+      "overrideName": "7E8505E3-763A-4F0F-B50F-DA8A3853C49F_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2_textStyle"
+      "overrideName": "7E8505E3-763A-4F0F-B50F-DA8A3853C49F_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "36C3E2FE-7301-4A70-AFDB-E3D3CC86C2C2_stringValue"
+      "overrideName": "262F4160-EEEA-4B66-8431-0E65E971E3AF_symbolID"
     }
   ],
   "presetDictionary": {
@@ -125,7 +121,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5DF52BF5-16BF-4E92-A6AD-C381446224B9",
+    "do_objectID": "511C1B04-8B80-4A7B-8AF0-08819F49BD33",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -137,7 +133,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3CAD705-F613-4E48-863C-07B600D05872",
+  "symbolID": "EE7ADDF1-4A6F-41C0-AFEC-7E58763B144E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
