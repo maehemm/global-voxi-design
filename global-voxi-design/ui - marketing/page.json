@@ -39,6 +39,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "8171062C-F986-409D-9579-7AA50F852361"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "329A29AD-4E83-4BC7-9E3A-68769E4810E7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D79950D3-D687-43F0-A550-D971965E23AB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "55663805-42EF-4A42-B9C3-E4DB5B491049"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "43E199D0-6D62-477B-8360-CA0520A7E066"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D5BC1C39-D028-4B2F-9FBD-0A94DB667642"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "54EDACB3-9B49-4339-9AA7-BB3A41C6E31F"
+    }
   ],
   "name": "ui - marketing",
   "nameIsFixed": true,
@@ -96,6 +124,7 @@
     "_class": "rulerData",
     "base": -618,
     "guides": [
+      127
     ]
   }
 }
