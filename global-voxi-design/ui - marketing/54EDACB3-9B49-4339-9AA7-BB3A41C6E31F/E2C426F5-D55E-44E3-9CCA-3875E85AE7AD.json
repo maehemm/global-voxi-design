@@ -55,7 +55,7 @@
     "height": 56,
     "width": 528,
     "x": 24.00000000000023,
-    "y": 72
+    "y": 68
   },
   "glyphBounds": "{{0, 4}, {511, 47}}",
   "hasClippingMask": false,
@@ -68,7 +68,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Don’t worry about an",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 29,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "BB765A48-4F19-4F2F-A30C-E59398925051",

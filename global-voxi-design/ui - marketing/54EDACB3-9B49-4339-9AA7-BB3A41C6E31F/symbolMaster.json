@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 127,
   "clippingMaskMode": 0,
   "do_objectID": "54EDACB3-9B49-4339-9AA7-BB3A41C6E31F",
   "exportOptions": {
@@ -54,20 +54,62 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "B359719B-4774-4800-96A8-9C5393244438"
+      "class": "symbolInstance",
+      "id": "6A35805E-3C57-4A65-B888-92CFA3FB25A2"
+    },
+    {
+      "class": "text",
+      "id": "2B83196C-3268-4235-BEDE-D3E61DC34771"
+    },
+    {
+      "class": "text",
+      "id": "E2C426F5-D55E-44E3-9CCA-3875E85AE7AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6D8F656-829F-40D9-9BB2-8D21FE2CBD8F"
     }
   ],
-  "name": "uiElements/secondary USP/desktop",
-  "nameIsFixed": false,
+  "name": "uiElements/cards/secondary USP/desktop",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B83196C-3268-4235-BEDE-D3E61DC34771_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B83196C-3268-4235-BEDE-D3E61DC34771_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E2C426F5-D55E-44E3-9CCA-3875E85AE7AD_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E2C426F5-D55E-44E3-9CCA-3875E85AE7AD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E6D8F656-829F-40D9-9BB2-8D21FE2CBD8F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6A35805E-3C57-4A65-B888-92CFA3FB25A2_symbolID"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
