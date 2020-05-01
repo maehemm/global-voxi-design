@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "D5BC1C39-D028-4B2F-9FBD-0A94DB667642",
   "exportOptions": {
@@ -60,6 +60,51 @@
   "name": "uiElements/uswitch module/pressquote/desktop",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9A1B32C9-4EF1-41E0-AF79-C1386C8860DD_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BF96E5E-73C2-45E2-91A3-A8CFC11A97D4_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6779E047-1C91-484A-9DFE-6A74C2F5615C_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6779E047-1C91-484A-9DFE-6A74C2F5615C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9A1B32C9-4EF1-41E0-AF79-C1386C8860DD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD46A8B2-AAA2-49D8-8FC0-5BA2FAA7F680_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BF96E5E-73C2-45E2-91A3-A8CFC11A97D4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27D93BE5-66C1-4498-8C0C-59370E260160_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27D93BE5-66C1-4498-8C0C-59370E260160_stringValue"
+    }
   ],
   "presetDictionary": {
   },

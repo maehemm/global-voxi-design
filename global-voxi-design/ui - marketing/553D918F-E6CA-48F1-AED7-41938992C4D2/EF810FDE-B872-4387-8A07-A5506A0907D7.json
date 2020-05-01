@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "434A4A5F-43A3-48BF-84FF-9FDC054E0834",
+  "do_objectID": "EF810FDE-B872-4387-8A07-A5506A0907D7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,42 +14,33 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 44,
-    "y": 0
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 16,
+    "y": 16
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "icon",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "shapePath",
-      "id": "397A0F1C-D5D7-448B-9215-2748A52BD193"
-    },
-    {
-      "class": "shapePath",
-      "id": "B02EA562-676C-47E2-B556-853B43485C50"
-    },
-    {
-      "class": "shapePath",
-      "id": "E91184C1-544E-44FB-A115-D9F23A013BC2"
+      "_class": "overrideValue",
+      "overrideName": "0B2C4D68-4CFF-401E-ACBE-C2CED3B0B38F_symbolID",
+      "value": "8F3CE42B-A597-4254-A6C7-90C3A49FFFC0"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A0EE61E3-2729-4944-899C-24CFB4CDFA69",
+    "do_objectID": "CEC7E03A-88EE-4A7E-8877-73F4EF167654",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "5336DDA2-EC79-44F8-9BBB-C2342AA7EC9F",
+  "verticalSpacing": 0
 }

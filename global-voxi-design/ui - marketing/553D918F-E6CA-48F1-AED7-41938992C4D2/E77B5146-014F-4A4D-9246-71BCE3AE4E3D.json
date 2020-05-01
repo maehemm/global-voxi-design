@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "434A4A5F-43A3-48BF-84FF-9FDC054E0834",
+  "do_objectID": "E77B5146-014F-4A4D-9246-71BCE3AE4E3D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 44,
+    "height": 140,
+    "width": 343,
+    "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "397A0F1C-D5D7-448B-9215-2748A52BD193"
-    },
-    {
-      "class": "shapePath",
-      "id": "B02EA562-676C-47E2-B556-853B43485C50"
-    },
-    {
-      "class": "shapePath",
-      "id": "E91184C1-544E-44FB-A115-D9F23A013BC2"
-    }
+  "name": "uiElements/cardContainer/black/mid grey outer",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "Group",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A0EE61E3-2729-4944-899C-24CFB4CDFA69",
+    "do_objectID": "8ABBA01B-9E58-4D03-948C-B2056F8B755A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "60101E18-7077-441B-99C9-661D897666AB",
+  "verticalSpacing": 0
 }

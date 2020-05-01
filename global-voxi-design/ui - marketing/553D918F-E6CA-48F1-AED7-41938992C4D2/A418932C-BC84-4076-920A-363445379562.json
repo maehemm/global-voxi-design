@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "RegularVOXI-Bold",
-              "size": 28
+              "name": "RegularVOXI",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -25,20 +25,22 @@
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 14,
+        "length": 120,
         "location": 0
       }
     ],
-    "string": "No bill shock "
+    "string": "Don’t worry about any unexpected out of plan charges. You only pay for the cost of your plan plus any extras you choose."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2B83196C-3268-4235-BEDE-D3E61DC34771",
+  "do_objectID": "A418932C-BC84-4076-920A-363445379562",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 472,
-    "x": 80,
-    "y": 24
+    "height": 72,
+    "width": 311,
+    "x": 16,
+    "y": 52
   },
-  "glyphBounds": "{{2, 5}, {153, 21}}",
+  "glyphBounds": "{{0, 6}, {311, 61}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Headline",
+  "name": "Copy",
   "nameIsFixed": true,
   "resizingConstraint": 25,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C56C1008-A6DF-4220-A2C0-FFDBFF663E6F",
+  "sharedStyleID": "3B78BE3C-FA76-4484-8FDE-4AC4747E3B4F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4C4867A8-AD93-44EC-969B-1DC99DD8853A",
+    "do_objectID": "E7348613-625D-4540-80EE-E0787A4D8D4A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,8 +132,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "RegularVOXI-Bold",
-            "size": 28
+            "name": "RegularVOXI",
+            "size": 14
           }
         },
         "kerning": 0,
@@ -139,9 +141,11 @@
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
-        }
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
@@ -151,7 +155,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

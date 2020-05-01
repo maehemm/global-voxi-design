@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RegularVOXI-Bold",
-              "size": 28
+              "size": 21
             }
           },
           "kerning": 0,
@@ -25,20 +25,20 @@
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 14,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "No bill shock "
+    "string": "No bill shock"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2B83196C-3268-4235-BEDE-D3E61DC34771",
+  "do_objectID": "7E871396-8823-4544-AB02-D785D445C875",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 472,
-    "x": 80,
-    "y": 24
+    "height": 28,
+    "width": 263,
+    "x": 63.99946229783654,
+    "y": 16
   },
-  "glyphBounds": "{{2, 5}, {153, 21}}",
+  "glyphBounds": "{{1, 4}, {115, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "resizingConstraint": 25,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C56C1008-A6DF-4220-A2C0-FFDBFF663E6F",
+  "sharedStyleID": "4E00E294-B0DE-4A9D-AB94-F27657EDCF22",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -99,7 +99,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4C4867A8-AD93-44EC-969B-1DC99DD8853A",
+    "do_objectID": "21359610-D908-4340-95B0-88E65439A829",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RegularVOXI-Bold",
-            "size": 28
+            "size": 21
           }
         },
         "kerning": 0,
@@ -139,8 +139,8 @@
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0
