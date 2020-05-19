@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 1200,
     "width": 1920,
-    "x": -715,
+    "x": -2735,
     "y": -11526
   },
   "grid": {
@@ -98,14 +98,6 @@
     {
       "class": "group",
       "id": "0828C359-D65A-411C-9C9B-349F56378E4D"
-    },
-    {
-      "class": "group",
-      "id": "E4ED347C-DDD2-412E-9B6C-43617834B71C"
-    },
-    {
-      "class": "group",
-      "id": "3D4C2BC3-3EDC-47C7-BAC7-3294FEEF3D8F"
     },
     {
       "class": "shapeGroup",

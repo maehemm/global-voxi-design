@@ -1,0 +1,270 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.0784313725490196,
+    "green": 0.09019607843137253,
+    "red": 0.09803921568627451
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15797106-CFC7-48E4-ACC5-A4F70EF67A7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1200,
+    "width": 1920,
+    "x": 5345,
+    "y": -12990
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      312,
+      512
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "06F8D0F5-22CA-4761-8219-AEDE108A09CD"
+    },
+    {
+      "class": "group",
+      "id": "7DFB1DBF-A13E-4B55-9873-1C65CA19CBA7"
+    },
+    {
+      "class": "group",
+      "id": "54805140-22F7-468C-9B76-BCEE737D436B"
+    },
+    {
+      "class": "group",
+      "id": "DE1E091C-8A35-4BB4-9A57-8AF00B10BBF6"
+    },
+    {
+      "class": "group",
+      "id": "3A371969-7042-43AD-B3F2-90CEBD6FC919"
+    },
+    {
+      "class": "group",
+      "id": "1B28544B-C3DE-410E-9BD6-B4EDD16930CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67732FF3-1531-4699-80DE-010AB69E81FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2DC1A15-4488-465C-B04A-BEB212F28DE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8EA15CEC-7F8C-4D51-811C-070153B2157E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FBB98B7-C7DF-40CA-8A02-D94773D1A2CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E0439D6-833B-4EB7-9AD7-FD8E09A561E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A77A3B9-C309-4C96-9803-081B9ADDB341"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54DB2DBD-9DBE-46E2-B30A-DF45E72BCDD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79C59CF0-77DE-48EB-A4E3-435490A67835"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "136E894D-2B93-4D76-9025-2543F9F2570F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4239C8D5-CAF5-477D-8503-F8F4FB2E6793"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C4C03E6-663B-4619-9F4D-C38133EBB160"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4DDA654-4B39-4EF8-BF16-02E72A285D8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D660B00E-86A0-471D-837C-7195A29C21E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA410635-13BB-4249-A23A-4635147A18B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D39B6374-FD7C-461B-8945-F55F32D85562"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB5DAAFF-603B-4025-A277-957D56B99D64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFFEEA01-FDDE-4F2A-93F1-F7304C6F8C44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D277DD8-EC9D-4049-AC60-D19C795ABF02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84022DD7-1996-44DC-B7BB-053909E2C329"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AFC9CE6-79DF-4B01-8671-3118620FED9A"
+    },
+    {
+      "class": "group",
+      "id": "66C64F8A-A7BB-4629-9141-E4B0EF306046"
+    },
+    {
+      "class": "group",
+      "id": "736F1927-339F-4C5C-9577-6B30E7F71CAF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 16,
+    "guttersOutside": false,
+    "horizontalOffset": 104,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1232
+  },
+  "name": "voxi-webcore2-buttons 2 copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "44F8FE5C-18A1-45D8-A6A0-EFD5F2AC842F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      176,
+      32,
+      240,
+      1485,
+      448,
+      640,
+      840
+    ]
+  }
+}

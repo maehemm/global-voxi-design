@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
-    "width": 1920,
+    "height": 1231,
+    "width": 1953,
     "x": 0,
     "y": 0
   },
@@ -28,14 +28,10 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "6AA2B7FD-DF59-4642-9A12-FFD147CE52C1"
-    },
     {
       "class": "rectangle",
       "id": "E2B16D36-EEEC-407A-BB35-FE45C7EE5789"

@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 9,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Disabled\n"
+    "string": "Disabled"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,7 +53,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 24,
     "width": 160,
     "x": 0,
     "y": 0

@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 53,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Nullam quis risus eget urna mollis ornare vel eu leo."
+    "string": "white inner."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 24,
     "width": 200,
     "x": 0,
     "y": 36
   },
-  "glyphBounds": "{{28, 4}, {172, 37}}",
+  "glyphBounds": "{{124, 4}, {76, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Nullam quis risus eg",
+  "name": "white inner.",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": "$primary-1"
+    "string": "Reduced to $opacity-4, chevron removed"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 160,
+    "width": 280,
     "x": 0,
     "y": 24
   },
-  "glyphBounds": "{{0, 3}, {70, 16}}",
+  "glyphBounds": "{{1, 3}, {270, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1200,
-    "width": 1920,
+    "width": 264,
     "x": 0,
     "y": 0
   },
@@ -32,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "D482BC10-61B1-4414-A83F-9E474950D616"
-    },
     {
       "class": "rectangle",
       "id": "9F6BF5FF-B4E2-47B2-9E1D-BE700D218A84"

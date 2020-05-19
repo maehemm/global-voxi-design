@@ -113,6 +113,30 @@
     },
     {
       "class": "symbolMaster",
+      "id": "2F144118-4098-4134-806B-6FEE196D7086"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "801D2A39-BAE5-486C-ADBE-37EAEAF979B5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E04D6B98-2CAA-4BD9-AE40-B3879351DF51"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EEA923F8-E863-4EC5-9053-62C586EBEDF9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "344CD581-0D7F-40DD-A0B0-DF4B7A406FA1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A837E22E-D180-400E-A120-A75C8C82C586"
+    },
+    {
+      "class": "symbolMaster",
       "id": "4C24FA61-BCF6-49A5-9785-6C2BE10618B7"
     },
     {
@@ -438,6 +462,10 @@
     {
       "class": "text",
       "id": "37B36ED2-093B-45B7-B846-6FB28ED056CB"
+    },
+    {
+      "class": "text",
+      "id": "F30F56A3-7DB2-432A-9EB4-FB2FBF9D7BF8"
     },
     {
       "class": "text",

@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 1200,
     "width": 1920,
-    "x": 5345,
+    "x": 6462,
     "y": -11526
   },
   "grid": {
@@ -175,7 +175,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "name": "voxi-webcore2-icons copy 2",
+  "name": "voxi-webcore2-icons library",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

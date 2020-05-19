@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -43,7 +43,7 @@
   ],
   "name": "Group",
   "nameIsFixed": false,
-  "resizingConstraint": 61,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

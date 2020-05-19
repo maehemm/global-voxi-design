@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RegularVOXI-Bold",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -28,9 +28,7 @@
             "baseWritingDirection": 0,
             "maximumLineHeight": 24,
             "minimumLineHeight": 24
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+          }
         },
         "length": 10,
         "location": 0
@@ -56,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 69,
+    "width": 79,
     "x": 8,
     "y": 11
   },
-  "glyphBounds": "{{1, 6}, {68, 11}}",
+  "glyphBounds": "{{1, 4}, {78, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,7 +72,7 @@
   "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "411E5AF2-7A6C-469D-8B87-EC5EC606223A",
+  "sharedStyleID": "AB965F0B-9DD8-4AB6-89D8-B0D0860098E9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -134,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RegularVOXI-Bold",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
@@ -145,9 +143,7 @@
           "baseWritingDirection": 0,
           "maximumLineHeight": 24,
           "minimumLineHeight": 24
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+        }
       },
       "verticalAlignment": 0
     },

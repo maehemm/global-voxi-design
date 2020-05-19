@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "$primary-1"
+    "string": "Hover state is as active."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,7 +57,7 @@
     "x": 0,
     "y": 24
   },
-  "glyphBounds": "{{0, 3}, {70, 16}}",
+  "glyphBounds": "{{1, 4}, {149, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 742,
+  "changeIdentifier": 758,
   "clippingMaskMode": 0,
   "do_objectID": "6AAD2296-19B5-4CDF-8EB5-756E3C7A6F09",
   "exportOptions": {
@@ -30,7 +30,11 @@
     "y": -1028
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -65,16 +69,16 @@
       "id": "864CA321-3D3F-4C55-97C8-5E65433EB52A"
     },
     {
-      "class": "group",
-      "id": "E9313698-714A-49C8-987F-3347179C7EAF"
-    },
-    {
       "class": "symbolInstance",
       "id": "E20CAD79-5D6E-4ED4-810F-622E4063D56D"
     },
     {
       "class": "symbolInstance",
       "id": "8E1E36D2-9281-4B86-BE72-92DD0062EDA1"
+    },
+    {
+      "class": "group",
+      "id": "E9313698-714A-49C8-987F-3347179C7EAF"
     }
   ],
   "name": "uiButtons/mobile/alt 2/on white/focus",
@@ -84,6 +88,16 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "864CA321-3D3F-4C55-97C8-5E65433EB52A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E20CAD79-5D6E-4ED4-810F-622E4063D56D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E1E36D2-9281-4B86-BE72-92DD0062EDA1_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -98,7 +112,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

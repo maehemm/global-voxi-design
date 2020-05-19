@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 1200,
     "width": 1920,
-    "x": 3325,
+    "x": 1305,
     "y": -12990
   },
   "grid": {
@@ -69,6 +69,38 @@
     {
       "class": "group",
       "id": "CAA5AC0E-4A9D-4730-8D19-88F4010FA294"
+    },
+    {
+      "class": "group",
+      "id": "38717F5D-2EC3-4D8E-BEAC-452D207E5549"
+    },
+    {
+      "class": "group",
+      "id": "7F8CB242-2B40-464E-8271-57B329D74E4F"
+    },
+    {
+      "class": "group",
+      "id": "8796B7EC-7937-40B9-A0C5-274E4DD427BB"
+    },
+    {
+      "class": "group",
+      "id": "7E6BBC42-B3E2-44B1-B92D-D0F0E8D518D2"
+    },
+    {
+      "class": "group",
+      "id": "6D5E8867-89B7-4CDC-BE3E-8908E0FD8B54"
+    },
+    {
+      "class": "group",
+      "id": "F3EC3F18-31A8-41FA-9788-1A3687AF59BD"
+    },
+    {
+      "class": "group",
+      "id": "C6D59634-D990-4029-95E6-6B74E9116D8A"
+    },
+    {
+      "class": "group",
+      "id": "D0418E4A-4549-4E78-9125-4DF320943620"
     },
     {
       "class": "group",
@@ -266,7 +298,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1232
   },
-  "name": "voxi-webcore2-buttons 2",
+  "name": "voxi-webcore2-buttons",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

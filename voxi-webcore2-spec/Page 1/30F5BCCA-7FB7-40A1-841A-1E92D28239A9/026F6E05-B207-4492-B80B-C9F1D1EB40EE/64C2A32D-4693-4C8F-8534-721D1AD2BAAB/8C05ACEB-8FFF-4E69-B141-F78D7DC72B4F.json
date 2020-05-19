@@ -30,11 +30,11 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 11,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Card Styles"
+    "string": "Card Container Styles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
+    "height": 56,
     "width": 200,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{96, 4}, {104, 19}}",
+  "glyphBounds": "{{58, 4}, {142, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Card Styles",
+  "name": "Card Container Style",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

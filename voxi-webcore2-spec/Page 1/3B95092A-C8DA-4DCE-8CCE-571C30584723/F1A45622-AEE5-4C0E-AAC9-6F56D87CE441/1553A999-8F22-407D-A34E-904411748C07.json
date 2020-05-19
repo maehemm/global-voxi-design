@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 10,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "$primary-1"
+    "string": "3px $accent-2 border"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,7 +57,7 @@
     "x": 0,
     "y": 24
   },
-  "glyphBounds": "{{0, 3}, {70, 16}}",
+  "glyphBounds": "{{0, 3}, {140, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

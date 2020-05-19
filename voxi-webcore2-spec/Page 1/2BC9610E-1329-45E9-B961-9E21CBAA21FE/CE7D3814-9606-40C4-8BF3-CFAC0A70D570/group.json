@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 24,
     "width": 160,
     "x": 1592,
-    "y": 176
+    "y": 240
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,10 +35,6 @@
     {
       "class": "text",
       "id": "CD903194-4950-4B54-9827-DB9C6EF5B889"
-    },
-    {
-      "class": "text",
-      "id": "E06D2E05-2A2A-418A-95C0-938BA3CC4D68"
     }
   ],
   "name": "Primary-1 Copy 4",

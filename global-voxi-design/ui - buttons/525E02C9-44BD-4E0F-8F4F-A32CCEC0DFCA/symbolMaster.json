@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 935,
+  "changeIdentifier": 937,
   "clippingMaskMode": 0,
   "do_objectID": "525E02C9-44BD-4E0F-8F4F-A32CCEC0DFCA",
   "exportOptions": {
@@ -30,7 +30,11 @@
     "y": -1028
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -60,6 +64,16 @@
   "name": "uiButtons/mobile/alt 2/on white/disabled",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E5E12EEC-5B98-4833-9E19-51EFB0CE8EC2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F6FC0DD-8E76-4497-9168-E9D46200815C_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

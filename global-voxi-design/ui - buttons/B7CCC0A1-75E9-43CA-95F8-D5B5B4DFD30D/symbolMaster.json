@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 643,
+  "changeIdentifier": 666,
   "clippingMaskMode": 0,
   "do_objectID": "B7CCC0A1-75E9-43CA-95F8-D5B5B4DFD30D",
   "exportOptions": {
@@ -30,7 +30,11 @@
     "y": -1028
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -65,16 +69,16 @@
       "id": "C863850E-506B-44D8-8D88-C8C19C97B5DE"
     },
     {
-      "class": "group",
-      "id": "D30A4F6F-A15F-43D8-9B21-4AA8BA13EFD6"
+      "class": "symbolInstance",
+      "id": "6575229E-1693-4228-9B0C-05D7E3787F46"
     },
     {
       "class": "symbolInstance",
       "id": "7EBF57E5-030D-420E-A90B-3E27725C2401"
     },
     {
-      "class": "symbolInstance",
-      "id": "6575229E-1693-4228-9B0C-05D7E3787F46"
+      "class": "group",
+      "id": "D30A4F6F-A15F-43D8-9B21-4AA8BA13EFD6"
     }
   ],
   "name": "uiButtons/mobile/alt 2/on white/active",
@@ -84,6 +88,16 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "E69DB7D0-4C22-4656-ABE2-D0A92C7A57E1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6575229E-1693-4228-9B0C-05D7E3787F46_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7EBF57E5-030D-420E-A90B-3E27725C2401_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

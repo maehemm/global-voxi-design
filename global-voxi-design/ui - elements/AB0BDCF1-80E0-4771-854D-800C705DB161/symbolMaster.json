@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 10,
   "clippingMaskMode": 0,
   "do_objectID": "AB0BDCF1-80E0-4771-854D-800C705DB161",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +64,11 @@
   "name": "uiElements/spacers/tablet/level 4",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "49AC38B1-A7D6-41DC-8A32-09552132C1F6_stringValue"
+    }
   ],
   "presetDictionary": {
   },

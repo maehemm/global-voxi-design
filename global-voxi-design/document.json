@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -21,11 +22,14 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "8A9C73FB-C88A-436B-9530-1A9E3D7AB8BE",
   "fontReferences": [
   ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -37,9 +41,9 @@
     ]
   },
   "meta": {
-    "appVersion": "65",
-    "build": 95493,
-    "version": 127
+    "appVersion": "66",
+    "build": 97063,
+    "version": 130
   },
   "pages": [
     "colours",
@@ -51,6 +55,11 @@
     "ui - marketing",
     "ui - icons"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invision.dsm": {
       "libraryMetadata": {

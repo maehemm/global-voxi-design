@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 50,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Morbi leo risus, porta ac consectetur ac, at eros."
+    "string": "transparent inner."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 24,
     "width": 200,
     "x": 0,
     "y": 36
   },
-  "glyphBounds": "{{46, 4}, {154, 38}}",
+  "glyphBounds": "{{85, 5}, {115, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Morbi leo risus, por",
+  "name": "transparent inner.",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
