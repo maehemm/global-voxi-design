@@ -20,7 +20,7 @@
               "size": 14
             }
           },
-          "kerning": 0,
+          "kerning": 0.28,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -56,11 +56,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 69,
+    "width": 72,
     "x": 8,
     "y": 10
   },
-  "glyphBounds": "{{1, 6}, {68, 11}}",
+  "glyphBounds": "{{1, 6}, {70, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,7 +137,7 @@
             "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.28,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

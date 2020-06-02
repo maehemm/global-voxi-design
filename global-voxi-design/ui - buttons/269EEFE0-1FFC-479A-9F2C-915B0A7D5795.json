@@ -20,14 +20,14 @@
               "size": 56
             }
           },
-          "kerning": 0,
+          "kerning": 1.12,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 64,
+            "minimumLineHeight": 64
           }
         },
         "length": 9,
@@ -58,7 +58,7 @@
     "x": -2870,
     "y": -1332
   },
-  "glyphBounds": "{{28, 6}, {251, 50}}",
+  "glyphBounds": "{{18, 7}, {260, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -106,7 +106,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.2992466517857143
+      "opacity": 1
     },
     "do_objectID": "064CB984-2496-4494-9F7B-85F20275228C",
     "endMarkerType": 0,
@@ -135,14 +135,14 @@
             "size": 56
           }
         },
-        "kerning": 0,
+        "kerning": 1.12,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 62,
-          "minimumLineHeight": 62
+          "maximumLineHeight": 64,
+          "minimumLineHeight": 64
         }
       },
       "verticalAlignment": 0

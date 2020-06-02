@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5372549019607843,
-            "green": 0.5450980392156862,
-            "red": 0.5490196078431373
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,14 +20,14 @@
               "size": 12
             }
           },
-          "kerning": 0,
+          "kerning": 0.24,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -55,12 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 16,
     "width": 1250,
     "x": 94,
-    "y": 0
+    "y": 4
   },
-  "glyphBounds": "{{1049, 6}, {201, 12}}",
+  "glyphBounds": "{{1042, 2}, {208, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,7 +74,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BB393AE7-9ABC-4A05-B163-EF8D111B329F",
+  "sharedStyleID": "91BFF27C-3EEB-4AB9-A54C-C4250F9833AC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,9 +126,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5372549019607843,
-          "green": 0.5450980392156862,
-          "red": 0.5490196078431373
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -137,14 +137,14 @@
             "size": 12
           }
         },
-        "kerning": 0,
+        "kerning": 0.24,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

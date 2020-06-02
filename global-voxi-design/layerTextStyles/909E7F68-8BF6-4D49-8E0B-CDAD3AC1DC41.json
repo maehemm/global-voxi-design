@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5DA3F7E7-6BD0-41F1-8137-C73B26370DD6",
+    "do_objectID": "C0AE10AE-529A-44CA-90F7-267C1796D06B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -63,14 +63,14 @@
             "size": 18
           }
         },
-        "kerning": 0,
+        "kerning": 0.36,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0

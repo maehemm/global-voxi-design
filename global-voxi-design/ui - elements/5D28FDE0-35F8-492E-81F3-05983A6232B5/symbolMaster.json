@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8352941176470589,
-    "green": 0.392156862745098,
-    "red": 0.4862745098039217
+    "blue": 0.0784313725490196,
+    "green": 0.09019607843137253,
+    "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 139,
+  "changeIdentifier": 994,
   "clippingMaskMode": 0,
   "do_objectID": "5D28FDE0-35F8-492E-81F3-05983A6232B5",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 137,
+    "height": 145,
     "width": 576,
     "x": -542,
-    "y": 4997
+    "y": 5506
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,12 +37,13 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      544
     ]
   },
   "includeBackgroundColorInExport": false,
@@ -61,9 +62,14 @@
       "id": "835B561B-86FF-4486-B647-803DC8B3F4E3"
     }
   ],
-  "name": "uiElements/content accordion/black bg/expanded/desktop",
+  "name": "uiElements/collapsible container/secondary (small)/black bg/expanded/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B79E8998-C28F-4E3B-92A0-EA2770F68B23_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -88,11 +94,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "631236CC-6D63-4966-8CF0-D43E905654D5_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BFC93E8A-0E8F-4F49-93BF-27890783537B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -158,6 +159,19 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      0,
+      16,
+      32,
+      80,
+      48,
+      64,
+      96,
+      112,
+      128,
+      144,
+      40,
+      56,
+      88
     ]
   }
 }

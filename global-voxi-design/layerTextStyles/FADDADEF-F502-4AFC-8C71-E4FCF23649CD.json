@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CC78FFCE-390A-44AD-8D65-0E984E5F60FF",
+    "do_objectID": "0A1618F4-C42A-48B5-B6EF-FB50C9C963B5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -63,7 +63,7 @@
             "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.28,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

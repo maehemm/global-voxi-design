@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8352941176470589,
-    "green": 0.392156862745098,
-    "red": 0.4862745098039217
+    "blue": 0.0784313725490196,
+    "green": 0.09019607843137253,
+    "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 122,
+  "changeIdentifier": 439,
   "clippingMaskMode": 0,
   "do_objectID": "72C32F77-14D3-4144-A32F-836D2CB76B21",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
+    "height": 56,
     "width": 343,
     "x": 282,
-    "y": 5200
+    "y": 5709
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,20 +54,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "D19A6FF8-62A4-4DF8-89F8-3EF75A3DC94F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6083393A-AFD1-45BB-9567-B4B4592DB5B1"
     }
   ],
-  "name": "uiElements/content accordion/black bg/closed/mobile",
+  "name": "uiElements/collapsible container/secondary (small)/black bg/closed/mobile",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6CA4D0AA-2F93-4CF0-B06C-0957EB7AB07A_symbolID"
+      "overrideName": "6083393A-AFD1-45BB-9567-B4B4592DB5B1_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -148,6 +152,13 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      8,
+      16,
+      24,
+      32,
+      40,
+      48,
+      56
     ]
   }
 }

@@ -20,13 +20,13 @@
               "size": 10
             }
           },
-          "kerning": 0,
+          "kerning": 0.2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 64,
     "width": 136,
     "x": 1448,
     "y": 240
   },
-  "glyphBounds": "{{0, 1}, {124, 46}}",
+  "glyphBounds": "{{0, 3}, {129, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -136,13 +136,13 @@
             "size": 10
           }
         },
-        "kerning": 0,
+        "kerning": 0.2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

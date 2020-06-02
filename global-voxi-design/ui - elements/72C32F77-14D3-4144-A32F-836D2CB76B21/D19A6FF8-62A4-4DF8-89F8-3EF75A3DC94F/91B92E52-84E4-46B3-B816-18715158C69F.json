@@ -20,7 +20,7 @@
               "size": 14
             }
           },
-          "kerning": 0,
+          "kerning": 0.28,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -36,7 +36,7 @@
         "location": 0
       }
     ],
-    "string": "What is Vodafone Start?"
+    "string": "What does endless mean?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,9 +58,9 @@
     "height": 24,
     "width": 208,
     "x": 16,
-    "y": 17
+    "y": 16
   },
-  "glyphBounds": "{{0, 6}, {146, 11}}",
+  "glyphBounds": "{{0, 6}, {163, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "What is Vodafone Sta",
+  "name": "What does endless me",
   "nameIsFixed": false,
   "resizingConstraint": 11,
   "resizingType": 0,
@@ -137,7 +137,7 @@
             "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.28,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

@@ -20,7 +20,7 @@
               "size": 16
             }
           },
-          "kerning": 0,
+          "kerning": 0.32,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 20,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "What is Vodafone ID?"
+    "string": "What does endless mean?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -56,9 +56,9 @@
     "height": 24,
     "width": 515,
     "x": 16,
-    "y": 17
+    "y": 16
   },
-  "glyphBounds": "{{0, 4}, {149, 13}}",
+  "glyphBounds": "{{0, 4}, {186, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "What is Vodafone ID?",
+  "name": "What does endless me",
   "nameIsFixed": false,
   "resizingConstraint": 27,
   "resizingType": 0,
@@ -135,7 +135,7 @@
             "size": 16
           }
         },
-        "kerning": 0,
+        "kerning": 0.32,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

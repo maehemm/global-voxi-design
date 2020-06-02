@@ -20,13 +20,13 @@
               "size": 21
             }
           },
-          "kerning": 0,
+          "kerning": 0.42,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
         "length": 120,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 64,
     "width": 544,
     "x": 16.00000000000023,
     "y": 68
   },
-  "glyphBounds": "{{0, 4}, {511, 47}}",
+  "glyphBounds": "{{0, 6}, {531, 51}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "resizingConstraint": 29,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BB765A48-4F19-4F2F-A30C-E59398925051",
+  "sharedStyleID": "0EDF4F13-443E-4CE7-8BEF-C98D4995CFB8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -99,7 +99,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -134,13 +134,13 @@
             "size": 21
           }
         },
-        "kerning": 0,
+        "kerning": 0.42,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0

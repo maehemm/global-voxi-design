@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 137,
+    "height": 145,
     "width": 576,
     "x": 0,
     "y": 0
@@ -50,7 +50,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BFC93E8A-0E8F-4F49-93BF-27890783537B"
+      "id": "B79E8998-C28F-4E3B-92A0-EA2770F68B23"
     }
   ],
   "name": "Group 8 Copy 6",

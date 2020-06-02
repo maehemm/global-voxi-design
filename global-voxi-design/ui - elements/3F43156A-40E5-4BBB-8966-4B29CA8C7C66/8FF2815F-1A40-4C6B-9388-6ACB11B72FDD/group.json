@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 162,
+    "height": 144,
     "width": 343,
     "x": 0,
     "y": 0
@@ -33,10 +33,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "23011CA5-4281-4ED3-9B18-019E1149D53E"
-    },
-    {
       "class": "text",
       "id": "C098F840-28BD-49E8-8694-704CFC58C5E4"
     },
@@ -47,10 +43,6 @@
     {
       "class": "text",
       "id": "6F7D6BD2-22A3-4B9E-B813-B4CB9C216116"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "07142A1D-5657-4AB2-A264-37E7AA829FAA"
     }
   ],
   "name": "Group 8 Copy 6",

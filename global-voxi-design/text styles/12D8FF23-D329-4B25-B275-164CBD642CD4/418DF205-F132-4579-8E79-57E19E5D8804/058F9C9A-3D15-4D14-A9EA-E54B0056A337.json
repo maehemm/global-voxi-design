@@ -20,7 +20,7 @@
               "size": 14
             }
           },
-          "kerning": 0,
+          "kerning": 0.28,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "RegularVOXI bold, 38px. Interline: 46px"
+    "string": "RegularVOXI bold, 38px. Interline: 48px"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 226,
+    "width": 235,
     "x": 94,
-    "y": 54
+    "y": 55
   },
-  "glyphBounds": "{{1, 6}, {225, 13}}",
+  "glyphBounds": "{{1, 6}, {233, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -136,7 +136,7 @@
             "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.28,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,

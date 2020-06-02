@@ -41,8 +41,8 @@
     ]
   },
   "meta": {
-    "appVersion": "66",
-    "build": 97063,
+    "appVersion": "66.1",
+    "build": 97080,
     "version": 130
   },
   "pages": [
@@ -63,6 +63,17 @@
   "userInfo": {
     "com.invision.dsm": {
       "libraryMetadata": {
+        "5bf430cf662fe40011b4f83c": {
+          "name": "Source",
+          "styleguideId": "5bf430cf662fe40011b4f83c",
+          "updatedOn": "2019-06-11 13:27:41 +0000",
+          "versionId": "5c9de8d4fdab5453cc6c518c"
+        },
+        "5c14017413e2536847bf591d": {
+          "name": "Example Library",
+          "styleguideId": "5c14017413e2536847bf591d",
+          "updatedOn": "2019-04-27 23:46:15 +0000"
+        },
         "5cd5dca0fce8172c54e51e71": {
           "name": "HandsUp",
           "styleguideId": "5cd5dca0fce8172c54e51e71",
