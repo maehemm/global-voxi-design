@@ -30,11 +30,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 30,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "Black / midgrey complex border"
+    "string": "Lightgrey / midgrey complex border"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 248,
+    "width": 264,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {229, 15}}",
+  "glyphBounds": "{{1, 4}, {260, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -34,6 +34,94 @@
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "3CE3EE2B-11A2-4BC8-AD16-92223C132EA6",
+      "libraryID": "8A9C73FB-C88A-436B-9530-1A9E3D7AB8BE",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "33DBE142-4F96-4FC0-B354-3B261A8D2485",
+        "name": "button/desktop/black",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E0B1E85C-C36C-4E50-BBDD-9DAAEFE3B128",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.0784313725490196,
+                "green": 0.0901960784313725,
+                "red": 0.0980392156862745
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "RegularVOXI-Bold",
+                  "size": 18
+                }
+              },
+              "kerning": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "baseWritingDirection": 0,
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "4FF4D2D8-1534-4EFE-AAE7-FBEDD0746A2B[A45894C1-5443-476D-89FD-DF5BB80BCB65]",
+      "sourceLibraryName": "global-voxi-design",
+      "symbolPrivate": true
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",

@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 7,
+        "length": 63,
         "location": 0
       }
     ],
-    "string": "$null-1"
+    "string": "text: $primary-2\nborder $monochrome-3\nbackground: $monochrome-5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 160,
+    "height": 72,
+    "width": 264,
     "x": 0,
     "y": 24
   },
-  "glyphBounds": "{{0, 3}, {44, 15}}",
+  "glyphBounds": "{{0, 3}, {203, 64}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
