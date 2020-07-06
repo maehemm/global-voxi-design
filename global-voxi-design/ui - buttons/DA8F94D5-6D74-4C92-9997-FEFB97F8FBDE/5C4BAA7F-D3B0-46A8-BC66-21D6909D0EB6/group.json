@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 0.764705882352941,
-    "red": 0.2980392156862746
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 1976,
   "clippingMaskMode": 0,
-  "do_objectID": "7C376ED8-D8CA-4E86-9D3D-D4A6EB6EAC67",
+  "do_objectID": "5C4BAA7F-D3B0-46A8-BC66-21D6909D0EB6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,63 +17,44 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": -2371,
-    "y": 754
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FBA277A7-86B3-4370-8736-4E07DF7CEC7D"
+      "class": "symbolInstance",
+      "id": "466A4AC0-3701-43D1-A0FD-7A3C5170A6C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60F549DC-CF64-4281-8F11-58152AEECD49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AE86170-256B-4B94-A746-4AADF80AA7BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5F24511-81F5-4787-BE22-D7FDAB107A38"
     }
   ],
-  "name": "uiButtons/iconbuttons/close button",
+  "name": "icon",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FADED6B5-106B-4CF9-97EB-12EDACDBB9B9_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "173DE098-D2D6-4CE2-A0E7-6E4E0D674BC1_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C9ECEDCB-8B74-4C4E-99DD-1B5789038FC1_symbolID"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -117,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4A49D68A-A2AC-4E02-B44E-1C66C6DB68AD",
+    "do_objectID": "3FCDC479-0E1F-45D9-B14F-2B855C45E4FA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -129,11 +101,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "011A4469-941C-456E-B15B-D736F9112791",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 65,
+            "enabled": 1,
+            "modelID": "constraint_9b33c8eb-1cf3-49cd-ab60-91f7df6d0596",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 65
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b80735db-0b18-4f1d-9756-e320abf84f31",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }
