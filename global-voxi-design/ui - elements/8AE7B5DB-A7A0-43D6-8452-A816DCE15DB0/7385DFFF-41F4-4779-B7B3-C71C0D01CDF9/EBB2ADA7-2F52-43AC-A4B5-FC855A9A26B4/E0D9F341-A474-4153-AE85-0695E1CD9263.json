@@ -20,25 +20,56 @@
               "size": 21
             }
           },
-          "kerning": 0.42,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 8,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "RegularVOXI-Bold",
+              "size": 21
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 12,
+        "location": 7
       }
     ],
-    "string": "Inceptos"
+    "string": "Endless\nFlexibility"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9A1B32C9-4EF1-41E0-AF79-C1386C8860DD",
+  "do_objectID": "E0D9F341-A474-4153-AE85-0695E1CD9263",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +83,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 132,
-    "x": 139,
+    "height": 56,
+    "width": 300,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 6}, {76, 19}}",
+  "glyphBounds": "{{106, 4}, {90, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,13 +96,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Inceptos",
+  "lineSpacingBehaviour": 3,
+  "name": "Endless Flexibility",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0EDF4F13-443E-4CE7-8BEF-C98D4995CFB8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -99,7 +129,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -107,7 +137,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "758D2CA0-D299-4E55-A1E2-314158A73D8A",
+    "do_objectID": "F8E9127F-F763-4DF9-8121-5A004691B3CF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -134,18 +164,26 @@
             "size": 21
           }
         },
-        "kerning": 0.42,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

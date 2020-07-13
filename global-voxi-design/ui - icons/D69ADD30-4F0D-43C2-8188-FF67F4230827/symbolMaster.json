@@ -8,13 +8,22 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 42,
+  "booleanOperation": 0,
+  "changeIdentifier": 1113,
   "clippingMaskMode": 0,
-  "do_objectID": "43E199D0-6D62-477B-8360-CA0520A7E066",
+  "do_objectID": "D69ADD30-4F0D-43C2-8188-FF67F4230827",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 10,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,10 +33,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 329,
-    "width": 1440,
-    "x": -641,
-    "y": -1680
+    "height": 24,
+    "width": 24,
+    "x": 253,
+    "y": 89
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -39,10 +48,12 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      4,
+      20
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,55 +61,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FBC9DB15-7A12-44F8-A512-D3E40E3EE0DE"
+      "class": "rectangle",
+      "id": "5F041AE2-2096-4E55-A6FD-13A6AF73D7AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C99927D-524B-47BF-81ED-1C3B5B2EF32F"
     }
   ],
-  "name": "uiElements/uswitch module/trustpilot/desktop",
-  "nameIsFixed": false,
+  "name": "uiIcons/brand icons/filled/dash",
+  "nameIsFixed": true,
+  "originalObjectID": "9D52D472-6A60-42C1-A71C-67961C16738A",
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A339D913-7926-4246-A4D8-95113B01D3D8_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "094C55A7-FD32-48CD-B041-E4BF01AC46D4_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "094C55A7-FD32-48CD-B041-E4BF01AC46D4_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A339D913-7926-4246-A4D8-95113B01D3D8_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "71A80BD4-16F7-4308-A538-8069FA60755B_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "90E9289F-FD30-4B2E-9630-405792BA1061_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "90E9289F-FD30-4B2E-9630-405792BA1061_stringValue"
+      "overrideName": "9C99927D-524B-47BF-81ED-1C3B5B2EF32F_symbolID"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -129,7 +115,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -137,7 +123,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C70D72D2-BF9F-4B45-8147-7ACA7EB07CB2",
+    "do_objectID": "E2242D13-E39F-40C9-B36C-1D2B9141BA8D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -149,11 +135,18 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4037AE12-D31D-4688-9E31-091FC56D9D28",
+  "symbolID": "E824C5C9-A55D-481D-B5A0-2EA9B9FAA0B9",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      10,
+      14
     ]
   }
 }

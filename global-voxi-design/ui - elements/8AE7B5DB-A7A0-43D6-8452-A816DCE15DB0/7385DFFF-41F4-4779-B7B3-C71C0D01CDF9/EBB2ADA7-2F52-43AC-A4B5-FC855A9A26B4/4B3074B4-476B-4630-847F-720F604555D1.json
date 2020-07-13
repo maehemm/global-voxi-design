@@ -9,36 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.5372549019607843,
+            "green": 0.5450980392156862,
+            "red": 0.5490196078431373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RegularVOXI",
-              "size": 21
+              "size": 16
             }
           },
-          "kerning": 0.42,
+          "kerning": 0.32,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 8,
+        "length": 57,
         "location": 0
       }
     ],
-    "string": "Inceptos"
+    "string": "No contract, cancel anytime, no credit check, no penalty."
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9A1B32C9-4EF1-41E0-AF79-C1386C8860DD",
+  "do_objectID": "4B3074B4-476B-4630-847F-720F604555D1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 132,
-    "x": 139,
-    "y": 0
+    "height": 48,
+    "width": 300,
+    "x": 0,
+    "y": 66
   },
-  "glyphBounds": "{{1, 6}, {76, 19}}",
+  "glyphBounds": "{{21, 4}, {259, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Inceptos",
+  "name": "No contract, cancel",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0EDF4F13-443E-4CE7-8BEF-C98D4995CFB8",
+  "sharedStyleID": "9E5BA1C0-FB9B-42F0-BD3F-906B65F79416",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "758D2CA0-D299-4E55-A1E2-314158A73D8A",
+    "do_objectID": "6F8811C0-5638-4C4F-B0DA-314DCB468E5A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,29 +124,37 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.5372549019607843,
+          "green": 0.5450980392156862,
+          "red": 0.5490196078431373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RegularVOXI",
-            "size": 21
+            "size": 16
           }
         },
-        "kerning": 0.42,
+        "kerning": 0.32,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

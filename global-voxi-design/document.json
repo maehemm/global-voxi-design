@@ -26,6 +26,46 @@
   "colorSpace": 0,
   "do_objectID": "8A9C73FB-C88A-436B-9530-1A9E3D7AB8BE",
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "05CBC1E0-38DB-4F35-811F-638EC28E1DAE",
+      "fontFamilyName": "RegularVOXI",
+      "fontFileName": "RegularVOXI_PRO-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "RegularVOXI"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1DB194AA-1D8F-41D7-AAEB-1EFD17808E1D",
+      "fontFamilyName": "RegularVOXI",
+      "fontFileName": "RegularVOXI_PRO-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "RegularVOXI-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "48E9A908-FAC5-4E10-9841-0D26D775A8D4",
+      "fontFamilyName": "RegularVOXI",
+      "fontFileName": "RegularVOXI_PRO-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "RegularVOXI-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C936632B-ED4E-43AD-B845-09AEF218CCBC",
+      "fontFamilyName": "Santorini",
+      "fontFileName": "Santorini.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Santorini"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
@@ -41,8 +81,8 @@
     ]
   },
   "meta": {
-    "appVersion": "66.1",
-    "build": 97080,
+    "appVersion": "67.2",
+    "build": 100443,
     "version": 130
   },
   "pages": [

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17EF50AF-2CEC-4FF4-82AE-5ED1171AFB04",
+  "do_objectID": "59738C87-9385-4AA8-BAD4-998B3652CD48",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,38 +14,33 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 181,
-    "width": 371,
-    "x": 743,
-    "y": 100
+    "constrainProportions": true,
+    "height": 40,
+    "width": 40,
+    "x": 130,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "uiIcons/brand icons/endless music",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "19DCB757-F884-4AFA-AB8E-786F235E424F"
-    },
-    {
-      "class": "group",
-      "id": "3D7B586E-017F-4014-9D42-890F920DA5BD"
+      "_class": "overrideValue",
+      "overrideName": "7F19ED2D-C8EC-452F-A24E-789FD9109FB1_symbolID",
+      "value": "8F3CE42B-A597-4254-A6C7-90C3A49FFFC0"
     }
   ],
-  "name": "Group 14",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "31D4060F-6B87-4DCD-8BF6-EF3972FA9759",
+    "do_objectID": "58E20E61-4AFE-4BC6-BB18-CD47E2402D4E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "E36B4693-D505-46EF-8801-55C97CAE8D30",
+  "verticalSpacing": 0
 }

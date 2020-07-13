@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3584,
+  "changeIdentifier": 3734,
   "clippingMaskMode": 0,
   "do_objectID": "53099B76-1DA5-4765-BB2F-1B26D1DB4A3F",
   "exportOptions": {
@@ -173,11 +173,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      154,
-      190,
-      214,
-      262,
-      310
     ]
   }
 }
