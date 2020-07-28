@@ -9,7 +9,7 @@
     "red": 0.2980392156862746
   },
   "booleanOperation": -1,
-  "changeIdentifier": 817,
+  "changeIdentifier": 944,
   "clippingMaskMode": 0,
   "do_objectID": "FE33DB15-243C-4581-B4AC-722188EE1900",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 160,
     "width": 343,
-    "x": 103,
+    "x": 2831,
     "y": 4537
   },
   "groupLayout": {
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

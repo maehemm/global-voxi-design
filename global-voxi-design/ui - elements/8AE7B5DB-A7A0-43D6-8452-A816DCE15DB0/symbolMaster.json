@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 312,
   "clippingMaskMode": 0,
   "do_objectID": "8AE7B5DB-A7A0-43D6-8452-A816DCE15DB0",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 162,
+    "height": 168,
     "width": 300,
     "x": -511,
-    "y": 8077
+    "y": 9309
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +64,26 @@
   "name": "uiElements/snippet/stack/desktop",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "59738C87-9385-4AA8-BAD4-998B3652CD48_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E0D9F341-A474-4153-AE85-0695E1CD9263_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B3074B4-476B-4630-847F-720F604555D1_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B3074B4-476B-4630-847F-720F604555D1_textStyle"
+    }
   ],
   "presetDictionary": {
   },

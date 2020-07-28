@@ -20,17 +20,17 @@
               "size": 21
             }
           },
-          "kerning": 0,
+          "kerning": 0.42,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       },
       {
@@ -50,18 +50,18 @@
               "size": 21
             }
           },
-          "kerning": 0,
+          "kerning": 0.42,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
-        "length": 12,
-        "location": 7
+        "length": 11,
+        "location": 8
       }
     ],
     "string": "Endless\nFlexibility"
@@ -83,12 +83,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 64,
     "width": 300,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{106, 4}, {90, 47}}",
+  "glyphBounds": "{{103, 6}, {94, 51}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -99,7 +99,7 @@
   "lineSpacingBehaviour": 3,
   "name": "Endless Flexibility",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -129,7 +129,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -164,14 +164,14 @@
             "size": 21
           }
         },
-        "kerning": 0,
+        "kerning": 0.42,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0
@@ -183,6 +183,12 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "isAutoWidth": 1
+      }
+    },
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "A480394B-C319-4776-842E-CCAD8D84E11C",
+        "sharedStyleName": "h4/desktop/center/white"
       }
     }
   }
