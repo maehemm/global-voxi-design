@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 312,
+  "changeIdentifier": 333,
   "clippingMaskMode": 0,
   "do_objectID": "8AE7B5DB-A7A0-43D6-8452-A816DCE15DB0",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,8 +61,8 @@
       "id": "7385DFFF-41F4-4779-B7B3-C71C0D01CDF9"
     }
   ],
-  "name": "uiElements/snippet/stack/desktop",
-  "nameIsFixed": false,
+  "name": "uiElements/snippet/stack - alternate heading/desktop",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

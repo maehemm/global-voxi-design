@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1371,
+  "changeIdentifier": 1384,
   "clippingMaskMode": 0,
   "do_objectID": "FE368EEC-CFAD-468F-B911-9AAE8A42237D",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "EA51DEF5-F76C-405A-B5FF-A0C98FA62B41"
     }
   ],
-  "name": "uiElements/snippet/slice CHUNKY/desktop",
+  "name": "uiElements/snippet/slice - CHUNKY alternate heading/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
