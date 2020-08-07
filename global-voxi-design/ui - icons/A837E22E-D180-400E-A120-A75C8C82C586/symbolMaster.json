@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1048,
+  "changeIdentifier": 1054,
   "clippingMaskMode": 0,
   "do_objectID": "A837E22E-D180-400E-A120-A75C8C82C586",
   "exportOptions": {
@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,7 +70,7 @@
       "id": "9BD9AC34-274D-4F52-9471-E9279E623B34"
     }
   ],
-  "name": "uiIcons/brand icons/filled/bigtick",
+  "name": "uiIcons/brand icons/filled/big tick",
   "nameIsFixed": true,
   "originalObjectID": "9D52D472-6A60-42C1-A71C-67961C16738A",
   "overrideProperties": [

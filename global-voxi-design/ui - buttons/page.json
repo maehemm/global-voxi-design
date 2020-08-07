@@ -181,6 +181,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "4638AF6D-E57B-4E6F-8DD7-6CED79DF9437"
+    },
+    {
+      "class": "symbolMaster",
       "id": "FA704CBB-5C05-42F7-9DF1-E46217906CFB"
     },
     {
@@ -462,6 +466,18 @@
     {
       "class": "text",
       "id": "6AC76AB8-461B-400B-8CA1-D983D4A28D18"
+    },
+    {
+      "class": "bitmap",
+      "id": "3CE8E0B8-F0C4-4F60-969B-CD971103B5DB"
+    },
+    {
+      "class": "bitmap",
+      "id": "B9115091-7135-467A-9FAB-B850E238E926"
+    },
+    {
+      "class": "bitmap",
+      "id": "315A66E2-5D09-4D90-A82B-E9EE89029B5B"
     }
   ],
   "name": "ui - buttons",
