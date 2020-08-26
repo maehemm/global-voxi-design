@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1448,
+  "changeIdentifier": 2444,
   "clippingMaskMode": 0,
   "do_objectID": "601938AA-16DE-4048-92CC-8801EF73F0EE",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 368,
+    "height": 547,
     "width": 375,
     "x": 2182,
     "y": 8320
@@ -43,6 +43,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      -1125
     ]
   },
   "includeBackgroundColorInExport": false,
@@ -62,40 +63,63 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A856E908-C0B4-4C59-8674-9A04F12FCD54"
+      "id": "A57A9855-E54D-4C94-905A-53A6747A4F30"
     },
     {
       "class": "text",
-      "id": "E364B756-9E16-4B8D-8274-735C0B70E22C"
+      "id": "8BA62541-9F0E-42E2-A411-638945429B36"
+    },
+    {
+      "class": "text",
+      "id": "D9013FA8-B320-4000-B4E4-3B3A09F21B7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "753A68F6-D3E3-40BA-AA7B-36F71B6F407E"
     }
   ],
-  "name": "uiElements/hero banners/heading only/mobile",
+  "name": "uiElements/hero banners/heading only 50 50/mobile",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "A856E908-C0B4-4C59-8674-9A04F12FCD54_symbolID"
+      "canOverride": true,
+      "overrideName": "D9013FA8-B320-4000-B4E4-3B3A09F21B7B_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E364B756-9E16-4B8D-8274-735C0B70E22C_stringValue"
+      "overrideName": "D9013FA8-B320-4000-B4E4-3B3A09F21B7B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8BA62541-9F0E-42E2-A411-638945429B36_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "753A68F6-D3E3-40BA-AA7B-36F71B6F407E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A57A9855-E54D-4C94-905A-53A6747A4F30_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8BA62541-9F0E-42E2-A411-638945429B36_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "4E427AC8-ADED-49CF-8AD9-2CE1EBAB6B63_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E364B756-9E16-4B8D-8274-735C0B70E22C_textStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

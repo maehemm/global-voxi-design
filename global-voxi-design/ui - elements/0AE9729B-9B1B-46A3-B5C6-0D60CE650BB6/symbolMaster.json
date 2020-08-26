@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1214,
+  "changeIdentifier": 1673,
   "clippingMaskMode": 0,
   "do_objectID": "0AE9729B-9B1B-46A3-B5C6-0D60CE650BB6",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 512,
+    "height": 720,
     "width": 767,
     "x": 1142,
     "y": 8320
@@ -61,12 +61,8 @@
       "id": "F350DF59-71C3-4613-BF37-A7C583DBD412"
     },
     {
-      "class": "symbolInstance",
-      "id": "65386746-2B37-4EBD-BD65-9098D0DAD206"
-    },
-    {
-      "class": "text",
-      "id": "C5B4C1CE-FF27-4B71-BDF7-12801D3D6E34"
+      "class": "group",
+      "id": "97E130FB-7EF9-4643-A22B-71219AEAE91B"
     }
   ],
   "name": "uiElements/hero banners/heading only 50 50/tablet",
@@ -75,27 +71,42 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "AD9011E1-674C-4473-85C4-70FDD56476EB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "F350DF59-71C3-4613-BF37-A7C583DBD412_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "65386746-2B37-4EBD-BD65-9098D0DAD206_symbolID"
+      "canOverride": true,
+      "overrideName": "AD9011E1-674C-4473-85C4-70FDD56476EB_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C5B4C1CE-FF27-4B71-BDF7-12801D3D6E34_stringValue"
+      "overrideName": "3CA56C1F-ADC4-4968-BE5F-E42F5B8B9080_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C5B4C1CE-FF27-4B71-BDF7-12801D3D6E34_textStyle"
+      "overrideName": "29FDA757-D78A-4B08-9235-4136D96782F8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EFC3C5F4-619D-4E5E-A55A-5389A766131D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "29FDA757-D78A-4B08-9235-4136D96782F8_textStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

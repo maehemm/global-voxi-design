@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1790,
+  "changeIdentifier": 1844,
   "clippingMaskMode": 0,
   "do_objectID": "0F9F1191-4C8F-4889-81D2-75185702B8EF",
   "exportOptions": {
@@ -62,10 +62,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A0CD46FB-AFBC-4F1B-977A-1D88D49D4085"
-    },
-    {
       "class": "shapeGroup",
       "id": "E9AFBBFB-5A9A-4B4D-A948-4D597D62F31E"
     },
@@ -74,7 +70,7 @@
       "id": "EDEA178E-B3D2-4E42-A3AA-C8159E56DFF9"
     }
   ],
-  "name": "uiIcons/brand icons/AWARD WIP",
+  "name": "uiIcons/brand icons/warranty",
   "nameIsFixed": true,
   "originalObjectID": "DEBD00AB-6243-4C80-BA1F-8DE28C245F43",
   "overrideProperties": [

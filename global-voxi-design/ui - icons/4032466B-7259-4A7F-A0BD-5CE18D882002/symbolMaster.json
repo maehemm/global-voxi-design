@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2326,
+  "changeIdentifier": 2329,
   "clippingMaskMode": 0,
   "do_objectID": "4032466B-7259-4A7F-A0BD-5CE18D882002",
   "exportOptions": {
@@ -74,7 +74,7 @@
       "id": "B6678AA8-5032-4204-997F-C36A60B937C7"
     }
   ],
-  "name": "uiIcons/brand icons/AWARD WIP2",
+  "name": "uiIcons/brand icons/Award",
   "nameIsFixed": true,
   "originalObjectID": "DEBD00AB-6243-4C80-BA1F-8DE28C245F43",
   "overrideProperties": [

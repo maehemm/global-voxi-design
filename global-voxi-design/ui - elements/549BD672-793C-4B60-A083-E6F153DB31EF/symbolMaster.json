@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 477,
+  "changeIdentifier": 1246,
   "clippingMaskMode": 0,
   "do_objectID": "549BD672-793C-4B60-A083-E6F153DB31EF",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 376,
+    "height": 560,
     "width": 1440,
     "x": -490,
     "y": 8320
@@ -63,11 +63,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B19EDFB6-BA6E-4CC5-8A53-C2A458169F31"
+      "id": "6AB30F97-A2A7-4EBF-8C6E-817EF6AAE58F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D257989F-3600-4CC1-B658-A1E0DF45186D"
     },
     {
       "class": "text",
-      "id": "97DAAD96-7402-409C-8E6A-606B55607420"
+      "id": "1E53D1B1-A06D-430E-8F10-CD8C99CF1DCD"
+    },
+    {
+      "class": "text",
+      "id": "F199FCE0-DCB2-4616-B7EA-7A406B3C9ADF"
     }
   ],
   "name": "uiElements/hero banners/heading only 50 50/desktop",
@@ -75,23 +83,23 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "B19EDFB6-BA6E-4CC5-8A53-C2A458169F31_symbolID"
+      "canOverride": true,
+      "overrideName": "6AB30F97-A2A7-4EBF-8C6E-817EF6AAE58F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "97DAAD96-7402-409C-8E6A-606B55607420_textStyle"
+      "overrideName": "1E53D1B1-A06D-430E-8F10-CD8C99CF1DCD_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E53D1B1-A06D-430E-8F10-CD8C99CF1DCD_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B880BC07-DD78-496A-B5F5-B61C39906228_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "97DAAD96-7402-409C-8E6A-606B55607420_stringValue"
     }
   ],
   "presetDictionary": {

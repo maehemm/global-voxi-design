@@ -9,7 +9,7 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1190,
+  "changeIdentifier": 1341,
   "clippingMaskMode": 0,
   "do_objectID": "FA69E7C3-679F-42D1-A2FA-05666B55E5D0",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 340,
-    "x": 295,
-    "y": 9520
+    "x": -490,
+    "y": 9469
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -61,7 +61,7 @@
       "id": "9DD5CAEC-A080-4FF3-BA22-A4F6A9F361EE"
     }
   ],
-  "name": "uiElements/snippet/slice - standard heading/desktop",
+  "name": "uiElements/snippet/slice/small/standard heading/desktop",
   "nameIsFixed": true,
   "overrideProperties": [
     {
