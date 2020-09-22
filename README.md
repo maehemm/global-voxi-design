@@ -1,2 +1,4 @@
 # global-voxi-design
- Design System
+ VOXI Design System
+ * Sketch Library
+ * Component documentation
