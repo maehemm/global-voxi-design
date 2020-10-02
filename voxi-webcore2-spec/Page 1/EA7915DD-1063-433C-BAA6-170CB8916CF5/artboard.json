@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1201,
     "width": 1920,
-    "x": -715,
-    "y": -9967
+    "x": 2080,
+    "y": 3024
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -121,6 +121,10 @@
     {
       "class": "group",
       "id": "B06696B5-6A4C-4CD9-9ABE-C2455690EB1C"
+    },
+    {
+      "class": "slice",
+      "id": "2181C130-0B14-4E2F-8CFE-06FE39A73834"
     }
   ],
   "layout": {

@@ -41,10 +41,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "slice",
-      "id": "2181C130-0B14-4E2F-8CFE-06FE39A73834"
-    },
-    {
       "class": "artboard",
       "id": "EC273A2C-ED07-493D-B57D-F4D918F88885"
     },
@@ -106,10 +102,6 @@
     },
     {
       "class": "artboard",
-      "id": "72C4EBD2-722C-44B2-8A87-407FC72438C9"
-    },
-    {
-      "class": "artboard",
       "id": "30F5BCCA-7FB7-40A1-841A-1E92D28239A9"
     },
     {
@@ -135,10 +127,6 @@
     {
       "class": "shapeGroup",
       "id": "945E3C74-08CA-4EA8-823F-67DD42F82F3B"
-    },
-    {
-      "class": "artboard",
-      "id": "BFA3181A-4164-4392-8DE6-B28341855FED"
     },
     {
       "class": "group",

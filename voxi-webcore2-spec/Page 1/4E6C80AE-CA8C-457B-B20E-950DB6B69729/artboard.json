@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1200,
     "width": 1920,
-    "x": 6462,
-    "y": -9967
+    "x": 8200,
+    "y": 3024
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
