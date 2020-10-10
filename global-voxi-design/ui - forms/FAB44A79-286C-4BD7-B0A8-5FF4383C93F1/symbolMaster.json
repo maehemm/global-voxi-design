@@ -9,7 +9,6 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 534,
   "clippingMaskMode": 0,
   "do_objectID": "FAB44A79-286C-4BD7-B0A8-5FF4383C93F1",
   "exportOptions": {
@@ -24,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 544,
+    "height": 56,
+    "width": 327,
     "x": 1310,
-    "y": 604
+    "y": 772
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,43 +49,53 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "C61E8653-A97D-4CBA-80C5-6EF40F4AA8FB"
+      "class": "text",
+      "id": "CDB95148-F50A-4438-AFF3-D4EC394C13E5"
     },
     {
       "class": "text",
-      "id": "C2870CF0-3540-4A11-97CE-D1D46D2682CA"
+      "id": "B3E8817B-8920-4F5E-8394-788F713C6169"
     },
     {
-      "class": "text",
-      "id": "A17A3D82-3618-4E42-B974-9A561A3007C0"
+      "class": "symbolInstance",
+      "id": "4CB374F3-4A29-49E7-ACB2-E98170943A95"
     }
   ],
-  "name": "uiForms/input/filled and invalid/white bg/desktop",
+  "name": "uiForms/input/filled and invalid/white bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C2870CF0-3540-4A11-97CE-D1D46D2682CA_textStyle"
+      "overrideName": "B3E8817B-8920-4F5E-8394-788F713C6169_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C2870CF0-3540-4A11-97CE-D1D46D2682CA_stringValue"
+      "overrideName": "CDB95148-F50A-4438-AFF3-D4EC394C13E5_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A17A3D82-3618-4E42-B974-9A561A3007C0_stringValue"
+      "overrideName": "CDB95148-F50A-4438-AFF3-D4EC394C13E5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B3E8817B-8920-4F5E-8394-788F713C6169_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CB374F3-4A29-49E7-ACB2-E98170943A95_symbolID"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

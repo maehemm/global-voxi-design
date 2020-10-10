@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,9 +21,11 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "8A9C73FB-C88A-436B-9530-1A9E3D7AB8BE",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -70,6 +71,46 @@
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "5C8C9C7C-B167-49C8-9DDC-BA423F059F3B",
+      "libraryID": "BB97453A-4778-4479-BD5A-3BC3FDF84C3D",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "90196466-3205-445A-89CB-A6316D5EAF62",
+        "name": "14. #EF0000",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0.9372549019607843
+        }
+      },
+      "remoteSwatchID": "DBAEEF03-234A-4FFD-85E0-9E0E9B7F97A6",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "04AAB2CC-096C-40D6-83D2-58E47BC97549",
+      "libraryID": "BB97453A-4778-4479-BD5A-3BC3FDF84C3D",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "3E90EB45-31BB-4A99-8D3A-A138DB1F1C8B",
+        "name": "9. #191714",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0784313725490196,
+          "green": 0.09019607843137253,
+          "red": 0.09803921568627451
+        }
+      },
+      "remoteSwatchID": "9185C146-122E-4B20-96DC-65F2EC1DDC2B",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
@@ -77,13 +118,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "A5A056D5-CA91-436B-9530-119C3D5BC1D3",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
     "colours",
@@ -97,6 +139,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "B3AC52D5-CA91-436B-9530-119C3D5BCFDF",
     "objects": [
     ]
   },

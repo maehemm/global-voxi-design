@@ -9,7 +9,6 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1012,
   "clippingMaskMode": 0,
   "do_objectID": "3C908157-F5CD-4E55-B9EE-8D25271AF836",
   "exportOptions": {
@@ -50,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",

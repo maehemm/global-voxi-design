@@ -9,7 +9,6 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": 0,
-  "changeIdentifier": 409,
   "clippingMaskMode": 0,
   "do_objectID": "49D7D3E8-B647-4ABB-9457-D873EE1ABE10",
   "exportOptions": {
@@ -50,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -65,7 +64,7 @@
       "id": "4D378DA1-084D-40A8-BAD1-65CA9BF47F95"
     }
   ],
-  "name": "uiForms/input/filled and invalid/black bg/desktop",
+  "name": "uiForms/input/filled and invalid/black bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {

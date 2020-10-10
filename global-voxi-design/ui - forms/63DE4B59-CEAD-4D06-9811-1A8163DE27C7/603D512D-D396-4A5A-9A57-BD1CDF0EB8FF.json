@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RegularVOXI-Bold",
-              "size": 16
+              "size": 14
             }
           },
-          "kerning": 0.32,
+          "kerning": 0.28,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,7 +28,9 @@
             "baseWritingDirection": 0,
             "maximumLineHeight": 24,
             "minimumLineHeight": 24
-          }
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 18,
         "location": 0
@@ -54,11 +56,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 139,
+    "width": 121,
     "x": 38,
     "y": 8
   },
-  "glyphBounds": "{{0, 4}, {137, 13}}",
+  "glyphBounds": "{{0, 6}, {120, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +74,7 @@
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A4F570DD-9F6B-46DC-A4AB-2A7AB56B9EDC",
+  "sharedStyleID": "80575355-8DEF-45F2-86FC-762C1E089B34",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -132,10 +134,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RegularVOXI-Bold",
-            "size": 16
+            "size": 14
           }
         },
-        "kerning": 0.32,
+        "kerning": 0.28,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -143,7 +145,9 @@
           "baseWritingDirection": 0,
           "maximumLineHeight": 24,
           "minimumLineHeight": 24
-        }
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

@@ -9,7 +9,6 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 759,
   "clippingMaskMode": 0,
   "do_objectID": "63DE4B59-CEAD-4D06-9811-1A8163DE27C7",
   "exportOptions": {
@@ -50,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -61,7 +60,7 @@
       "id": "589E51D4-1AC8-44C5-8480-9BF79C7054C2"
     }
   ],
-  "name": "uiForms/radio button/white bg/desktop",
+  "name": "uiForms/radio button/white bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {

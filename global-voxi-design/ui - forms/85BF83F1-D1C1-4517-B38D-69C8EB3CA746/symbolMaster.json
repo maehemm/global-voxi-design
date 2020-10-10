@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 349,
   "clippingMaskMode": 0,
   "do_objectID": "85BF83F1-D1C1-4517-B38D-69C8EB3CA746",
   "exportOptions": {
@@ -24,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 544,
-    "x": 113,
-    "y": 504
+    "height": 40,
+    "width": 327,
+    "x": 355,
+    "y": 689
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,34 +49,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "CCAD6CF0-3535-4947-B8D2-FE0D4F4C7161"
+      "id": "D6EA837F-8561-460B-A588-5C0E63C7836C"
     },
     {
-      "class": "text",
-      "id": "BD240123-188B-48C6-BF3C-1C7ACCF3C3A1"
+      "class": "symbolInstance",
+      "id": "CBAE15C3-BE60-47F0-9207-C6EAD67B0748"
     }
   ],
-  "name": "uiForms/input/default/white bg/desktop",
+  "name": "uiForms/input/default/white bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BD240123-188B-48C6-BF3C-1C7ACCF3C3A1_stringValue"
+      "canOverride": false,
+      "overrideName": "041F1078-539F-473F-A806-81F46B15D3B2_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BD240123-188B-48C6-BF3C-1C7ACCF3C3A1_textStyle"
+      "overrideName": "041F1078-539F-473F-A806-81F46B15D3B2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CBAE15C3-BE60-47F0-9207-C6EAD67B0748_symbolID"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

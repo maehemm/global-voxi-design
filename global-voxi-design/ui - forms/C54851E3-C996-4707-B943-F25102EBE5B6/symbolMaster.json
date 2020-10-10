@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 227,
   "clippingMaskMode": 0,
   "do_objectID": "C54851E3-C996-4707-B943-F25102EBE5B6",
   "exportOptions": {
@@ -24,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
-    "width": 544,
-    "x": 718,
-    "y": 504
+    "height": 56,
+    "width": 327,
+    "x": 710,
+    "y": 673
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,12 +49,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "group",
-      "id": "84D8E437-61FC-456E-9FB6-735E26E29984"
-    },
     {
       "class": "text",
       "id": "F06E2C48-5152-47CB-87F3-57536535C138"
@@ -63,11 +58,30 @@
     {
       "class": "text",
       "id": "FC98A8CD-D809-4A9A-B421-C857636DC595"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3ABB93C7-F44D-4FC4-9824-8214F2288F5C"
     }
   ],
-  "name": "uiForms/input/filled/white bg/desktop",
+  "name": "uiForms/input/filled/white bg",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3ABB93C7-F44D-4FC4-9824-8214F2288F5C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "F06E2C48-5152-47CB-87F3-57536535C138_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "FC98A8CD-D809-4A9A-B421-C857636DC595_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -77,16 +91,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "F06E2C48-5152-47CB-87F3-57536535C138_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F06E2C48-5152-47CB-87F3-57536535C138_textStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

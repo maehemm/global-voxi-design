@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
+    "height": 32,
+    "width": 32,
     "x": 0,
     "y": 0
   },
@@ -33,8 +33,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "382DFC99-F4B9-4731-9D8E-8726DDAEC0CC"
+      "class": "symbolInstance",
+      "id": "D552FC07-0B12-4137-A7D5-F3EA11E76FBE"
     },
     {
       "class": "group",

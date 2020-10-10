@@ -9,7 +9,6 @@
     "red": 0.09803921568627451
   },
   "booleanOperation": -1,
-  "changeIdentifier": 404,
   "clippingMaskMode": 0,
   "do_objectID": "1E28DB30-86E1-4497-BDE4-884EF61FA2DC",
   "exportOptions": {
@@ -50,14 +49,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "001B2399-305E-47AC-918C-7972DA72344E"
     }
   ],
-  "name": "uiForms/checkbox/black bg/desktop",
+  "name": "uiForms/checkbox/black bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {

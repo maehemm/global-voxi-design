@@ -9,7 +9,6 @@
     "red": 0.4862745098039217
   },
   "booleanOperation": 0,
-  "changeIdentifier": 375,
   "clippingMaskMode": 0,
   "do_objectID": "517510A7-9C9A-4914-968C-672654349FE6",
   "exportOptions": {
@@ -50,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -61,7 +60,7 @@
       "id": "2821A294-E24F-46A4-91A3-D15F062A8C8A"
     }
   ],
-  "name": "uiForms/input/default/black bg/desktop",
+  "name": "uiForms/input/default/black bg",
   "nameIsFixed": true,
   "overrideProperties": [
     {
