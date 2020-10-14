@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D105E703-D1FE-4E8C-A273-F7219BF235D0",
+  "do_objectID": "3234852B-D79E-4000-9BF6-1298293E9EDA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 14.4,
-    "x": 0,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 4,
+    "y": 4
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "uiIcons/brand icons/filled/big tick",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "65D8FB5D-EAD1-4CDF-A69C-FF37D2D1D859"
+      "_class": "overrideValue",
+      "overrideName": "9BD9AC34-274D-4F52-9471-E9279E623B34_symbolID",
+      "value": "C4E20D80-B977-475F-9C27-D34D82DB1AAF"
     }
   ],
-  "name": "colour",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +68,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4E329276-45C7-45DA-B23C-A35E441B7F64",
+    "do_objectID": "D0B49DA0-816F-4F7C-8A56-31DEA01FCB9F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "248B5ECE-1A39-48AF-AB55-8DE7E7B88CCC",
+  "verticalSpacing": 0
 }

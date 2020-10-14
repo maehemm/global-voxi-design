@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2749F530-4E3F-4D2A-A5B7-A321D7D0D3BA",
+  "do_objectID": "780363D4-F5B5-436E-9DBA-77691557CC67",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
+    "height": 33,
+    "width": 343,
     "x": 0,
     "y": 0
   },
@@ -33,17 +33,21 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "D552FC07-0B12-4137-A7D5-F3EA11E76FBE"
+      "class": "text",
+      "id": "3BA596D5-DE9F-4C0A-9023-5B9A0D64F817"
+    },
+    {
+      "class": "text",
+      "id": "37CA92A8-A079-407F-AF23-942A8B75F7BC"
     },
     {
       "class": "symbolInstance",
-      "id": "3234852B-D79E-4000-9BF6-1298293E9EDA"
+      "id": "3CE59C6D-47A9-461C-B3F5-DE7A0F626249"
     }
   ],
-  "name": "check",
-  "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -73,7 +77,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C2C36DB-CC05-4656-8FF5-9A29AA9BE9EA",
+    "do_objectID": "4A09CF21-35DA-473A-8771-3322B5E4F3C8",
     "endMarkerType": 0,
     "fills": [
     ],

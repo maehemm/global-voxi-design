@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E2529546-3696-437A-ADAA-A75DAE73C63D",
+  "do_objectID": "65A112B9-7475-4FEA-8232-93C7844EA918",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 14.4,
-    "x": 0,
-    "y": 0
+    "height": 24,
+    "width": 24,
+    "x": 295,
+    "y": 8
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "2672EDB9-8127-44A1-95F0-1E8C9EDA4608"
-    },
-    {
-      "class": "group",
-      "id": "D105E703-D1FE-4E8C-A273-F7219BF235D0"
-    }
+  "layerListExpandedType": 0,
+  "name": "uiIcons/brand icons/filled/chrevrondown ii",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "ui icon/tick",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -73,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "542E5D3B-F176-4BC2-A861-F3D091D24115",
+    "do_objectID": "CE3634CB-CA21-425E-890A-D8002EE6DAD7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "ED00E5B4-E9C8-4C4D-B888-85A45EE96A86",
+  "verticalSpacing": 0
 }

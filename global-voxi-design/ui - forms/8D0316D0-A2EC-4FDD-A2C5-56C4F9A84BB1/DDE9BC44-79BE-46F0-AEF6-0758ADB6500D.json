@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1AECDC0A-A9F5-4FB5-93F2-57EA820F85A2",
+  "do_objectID": "DDE9BC44-79BE-46F0-AEF6-0758ADB6500D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 14.4,
-    "x": 9.000000000000044,
-    "y": 10.39999999999998
+    "height": 1,
+    "width": 327,
+    "x": 0,
+    "y": 39
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "E2529546-3696-437A-ADAA-A75DAE73C63D"
-    }
-  ],
-  "name": "icon/voxi-checkmark-white-desk",
+  "name": "colours/solids/70% black",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C138DCD0-8EF7-4B11-A879-99333B15929F",
+    "do_objectID": "6BE476E1-5C46-422A-83DA-CEEA2A6045C1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "6A3294A6-E8DA-4A95-A334-09C6DE6EAAFB",
+  "verticalSpacing": 0
 }
